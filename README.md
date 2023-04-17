@@ -1,0 +1,1 @@
+This project is an attempt to create a novel text generation task for Penn State CSE-582.
