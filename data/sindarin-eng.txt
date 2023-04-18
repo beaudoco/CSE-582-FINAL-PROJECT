@@ -1,0 +1,1867 @@
+Ae!	Hello!
+Ae!	Hey!
+Ae!	Oh!
+Ae!	Ah!
+Galdol	Welcome
+Galdol	good
+Galdol	blessed
+Galdol	fortunate
+Galu	Blessing
+Galu	a blessing
+Mae govanthen	Well met
+Mae govannen	Well met
+Maedol	Welcome
+Maedol	well-coming
+Na mhedui!	At last!
+Rhudol	Unwelcome
+Rhudol	evil-coming
+Suil	greetings
+Trevaded and?	Long journey?
+Dandúledh?	You again?
+Dandúledh?	You returned?
+Dandúleg?	You again?
+Dandúleg?	You returned?
+Êl síla erin lûmh e-govaded ‘wîn	A star shines on the hour of our meeting
+Êl síla erin lûmh e-govaded ‘wîn	A star shines over the time of our meeting
+Gwannas lûmh and	It has been too long
+Gwannas lûmh and	a long time has passed
+I mâr nîn i mâr dhîn	My home is your home
+I mâr nîn i mâr gîn	My home is your home
+Nathlo i nathal!	Welcome the guest!
+Ni mheren an dhe ñovaded	I am happy to meet you
+Ni mheren an dhe ñovaded	I am joyous to meet you
+Ni mheren an gi ñovaded	I am happy to meet you
+Ni mheren an gi ñovaded	I am joyous to meet you
+Se i mâr nîn	This is my home
+Tolo, govado mhen	Come, join us
+Tolo, govado mhen	Come, meet us
+Dhe nathlomh hi	You are welcome here
+Dhe nathlomh hi	We welcome you here
+Gi nathlomh hi	You are welcome here
+Gi nathlomh hi	We welcome you here
+Dhe suilanthon	I give greetings to you
+Gi suilanthon	I give greetings to you
+Dhe suilon	I greet you
+Gi suilon	I greet you
+Ego!	Go on!
+Ego!	Get!
+Ego!	Get away!
+Ego!	Scram!
+Ego!	Go away!
+Cuio mhae	Farewell
+Cuio mhae	Live well
+Faro mhae	Good hunting
+Faro mhae	Hunt well
+No mheren	Enjoy yourself
+No mheren	Have fun
+No mheren	Be joyful
+No mheren	Be festive
+Nomhaer	Farewell
+Nomhaer	Be good
+Law firo i laiss e-guil dhîn	May the leaves of your life never die
+Law firo i laiss e-guil dhîn	May the leaves of your life not die
+Nínion ned i mhened ‘wîn	I cry upon our leaving
+Nínion ned i mhened ‘wîn	I will weep during our departure
+Nínion ned i mhened dhîn	I cry upon your leaving
+Nínion ned i mhened dhîn	I cry on your going
+Nínion ned i mhened mhîn	I cry upon our leaving
+Nínion ned i mhened mhîn	I will weep during our departure
+Boe annin mened	I must go
+Boe annin mened	It is necessary for me to leave
+Galo Anor erin râd dhîn	May the sun shine upon your path
+Harthon a threvaded and	I hope it will be a long journey
+Harthon a threvaded and	I hope for a long journey
+No gelin in raid dhîn, a no adel dhen i chwest	May your paths be green, and the breeze behind you
+A chi?	And you are?
+A de?	And you are?
+A the?	And he is?
+A the?	And she is?
+A the?	And it is?
+A thi?	And they are?
+Ma den?	Who is he?
+Ma den?	Who is she?
+Ma den?	Who is it?
+Ma dhen?	Who are you?
+Ma din?	Who are they?
+Ma gin?	Who are you?
+Ma i eneth dhîn?	What is your name?
+Ma i eneth dîn?	What is his name?
+Ma i eneth dîn?	What is her name?
+Ma i eneth dîn?	What is its name?
+Ma i eneth gîn?	What is your name?
+Ma in enith dhîn?	What are y'all's names?
+Ma in enith dhîn?	What are your names?
+Ma in enith dîn?	What are their names?
+Im	I am
+Im	Myself
+ah i mhellon nîn	and my companion is
+ah i mhellon nîn	and my friend
+Im estanthen	I'm called
+Im estanthen	I am called
+in enith dhîn	and are your names
+in enith dîn	and are their names
+i eneth gîn	is your name
+i eneth nîn	is my name
+Nin renidh?	Do you remember me?
+Nin renig?	Do you remember me?
+Dhen renin	I remember you
+Gin renin	I remember you
+Dhen renimh	We remember you
+Gin renimh	We remember you
+Gin iston?	Do I know you?
+Nin istog	You know me
+Dhen iston?	Do I know you?
+Mhen istodh	You know us
+Mhen istog	You know us
+Iston i nîf dhîn	I know your face
+Iston i nîf dhîn	I know your faces
+Iston i nîf gîn	I know your face
+Me edhil	We are Elves
+Mi mhan ci onthen?	Where were you born?
+Mi mhan ci onthen?	In where were you begotten?
+Mi mhan de onthen?	Where were you born?
+Mi mhan de onthen?	In where were you begotten?
+Ni law adan	I am not human
+Ni law adan	I am not a human
+Ni law edhel	I am not an Elf
+Ni adan	I am a human
+Ni adan	I am human
+Ni edhel	I am an Elf
+Mi mhan de enthin?	Where were you born?
+Mi mhan de enthin?	In where were you begotten?
+Mi mhan dorthodh?	Where do you live?
+Mi mhan dorthodh?	In where do you live?
+Mi mhan dorthog?	Where do you live?
+Mi mhan dorthog?	In where do you live?
+i mâr mhîn	is our home
+i mâr nîn	is my home
+i mardor mhîn	is our homeland
+i mardor nîn	is my homeland
+Ni thelidh?	You mean me?
+Ni thelidh?	You intend me?
+Ni thelig?	You mean me?
+Ni thelig?	You intend me?
+Am man anírodh istad?	Why do you want to know?
+Am man anírodh istad?	For what do you want to have knowledge?
+Ma theled istad?	Why do you want to know?
+Ma theled istad?	What is the purpose of having knowledge?
+I eneth dhîn dírphed	Your name is difficult to pronounce
+I eneth gîn dírphed	Your name is difficult to pronounce
+In enith dhîn dírphed	Your names are difficult to pronounce
+Law den aníron	I don't want it
+Law iston	I don't know
+Piston	I suppose
+Aníron peded	I wish to speak
+Aníron peded	I desire to speak
+Anthon i dhâf nîn achin	I give you my permission
+Anthon i dhâf nîn achin	I give my permission to you
+Anthon i dhâf nîn anden	I give you my permission
+Anthon i dhâf nîn anden	I give my permission to you
+Den iston	I think so
+Den iston	I know it
+Gwestodh?	Do you promise?
+Gwestog?	Do you promise?
+Gweston	I promise
+Iston	I know
+Man ebenthedh?	What did you say?
+Man ebentheg?	What did you say?
+Pedin den i ebenthedh	What you just said
+Pedin den i ebenthedh	I say that which you said
+Pedin den i ebentheg	What you just said
+Pedin den i ebentheg	I say that which you said
+Penin inc	I have no idea
+Penin inc	I lack an idea
+Semhin inc	I have a thought
+Semhin inc	I have an idea
+Semhin naw	I have a thought
+Ma i beth an be Annúnaid?	What is the word for in Westron?
+Ma i beth an be Edhellen?	What is the word for in Elvish?
+i beth	is the word
+Pêd edhellen?	Does he speak Elvish?
+Pêd edhellen?	Does she speak Elvish?
+Pêd edhellen?	Does it speak Elvish?
+Pedidh edhellen?	Do you speak Elvish?
+Pedig edhellen?	Do you speak Elvish?
+Pedir edhellen?	Do they speak Elvish?
+Pêd edhellen	He speaks Elvish
+Pêd edhellen	She speaks Elvish
+Pêd edhellen	It speaks Elvish
+Pedimh edhellen	We speak Elvish
+Pedin edhellen	I speak Elvish
+Pedir edhellen	They speak Elvish
+Ú-bed edhellen	He can't speak Elvish
+Ú-bed edhellen	She can't speak Elvish
+Ú-bed edhellen	It can't speak Elvish
+Ú-bedimh edhellen	We can't speak Elvish
+Ú-bedin edhellen	I can't speak Elvish
+Ú-bedir edhellen	They can't speak Elvish
+ah pedir edhellen	and speak Elvish
+pêd edhellen	speaks Elvish
+Amman heniodh edhellen?	Why do you know Elvish?
+Amman heniodh edhellen?	Why do you understand Elvish?
+Amman heniog edhellen?	Why do you know Elvish?
+Amman heniog edhellen?	Why do you understand Elvish?
+Ada a Nana pedir edhellen	Dad and mom speak Elvish
+Ada pêd edhellen	Dad speaks Elvish
+I adar nîn ah i naneth nîn pedir edhellen	My father and mother speak Elvish
+I adar nîn pêd edhellen	My father speaks Elvish
+I naneth nîn pêd edhellen	My mother speaks Elvish
+Me edhil	We are Elves
+Nana pêd edhellen	Mom speaks Elvish
+Ni law adan	I am not a human
+Ni law edhel	I am not an Elf
+Ni adan	I am human
+Ni adan	I am a human
+Heniodh?	Do you understand?
+Heniog?	Do you understand?
+Henion	I understand
+Ú-chenion	I can't understand
+Ni cheniodh?	Do you understand me?
+Ni cheniog?	Do you understand me?
+Dhe chenion	I understand you
+Dhen ú-chenion	I can't understand you
+Gi chenion	I understand you
+Gin ú-chenion	I can't understand you
+Telir foen	clouds are coming
+Tôl alagos	a wind-storm is coming
+Tôl fain	a cloud is coming
+Tôl hîth	fog is coming
+Tôl hîth	mist is coming
+Tôl hwest	a breeze is coming
+Tôl mîth	dense fog is coming
+Tôl sûl	wind is coming
+Glosta	it's snowing
+Glosta	it is snowing
+Helegui	it's icy
+Helegui	it is icy
+Helegui	icy
+Alagos	there is a wind storm
+Alagos	wind storm
+Apharch	it's very dry
+Apharch	very dry
+Fân	there is a cloud
+Fân	thin clouds
+Fân fantha Anor	it's overcast
+Fân fantha Anor	a cloud veils the sun
+Foen	there are clouds
+Foen	clouds
+Gloss	there's snow
+Gloss	snow
+Gloss bo dalaf	there's snow on the ground
+Gloss bo dalaf	snow on the ground
+Gwaeren	it's windy
+Gwaeren	windy
+Helch	it's bitter cold
+Helch	bitter cold
+Heleg	there is ice
+Heleg	ice
+Heleg bo dalaf	there is ice on the ground
+Heleg bo dalaf	ice on the ground
+Hethu	it is foggy
+Hethu	foggy
+Him	it is cool
+Him	cool
+Hîth	there is fog
+Hîth	there is mist
+Hîth	fog
+Hîth	mist
+Hithui	it is foggy
+Hithui	it is misty
+Hithui	foggy
+Hithui	misty
+Hwest	there is a breeze
+Hwest	breeze
+Laug	it is warm
+Laug	warm
+Limp	it is wet
+Limp	wet
+Lossen	it is snowy
+Lossen	snowy
+Madha	there is mud
+Madha	mud
+Madha bo dalaf	there is mud on the ground
+Madha bo dalaf	mud on the ground
+Mîdh bo dalaf	there is dew on the ground
+Mîdh bo dalaf	dew on the ground
+Mîth	there is dense fog
+Mîth	dense fog
+Nórui	it is sunny
+Nórui	sunny
+Parch	it is dry
+Parch	dry
+Ring	it is cold
+Ring	cold
+Ross	there is rain
+Ross	rain
+Sûl	there is wind
+Sûl	wind
+Uil	it is raining
+Úrui	it is hot
+Úrui	hot
+Elegys law mhaer annin	I do not like wind storms
+Elegys law mhaer annin	wind storms are not good for me
+Elegys maer annin	I like wind storms
+Elegys maer annin	wind storms are good for me
+Foen law mhaer annin	I do not like clouds
+Foen law mhaer annin	clouds are not good for me
+Foen maer annin	I like clouds
+Foen maer annin	clouds are good for me
+Gloss law mhaer annin	I do not like snow
+Gloss law mhaer annin	snow is not good for me
+Gloss maer annin	I like snow
+Gloss maer annin	snow is good for me
+Gwaew law mhaer annin	I do not like wind
+Gwaew law mhaer annin	wind is not good for me
+Gwaew maer annin	I like wind
+Gwaew maer annin	wind is good for me
+Heleg law mhaer annin	I do not like ice
+Heleg law mhaer annin	ice is not good for me
+Heleg maer annin	I like ice
+Heleg maer annin	ice is good for me
+Hîth law mhaer annin	I do not like fog
+Hîth law mhaer annin	I do not like mist
+Hîth law mhaer annin	fog is not good for me
+Hîth law mhaer annin	mist is not good for me
+Hîth maer annin	I like fog
+Hîth maer annin	I like mist
+Hîth maer annin	fog is good for me
+Hîth maer annin	mist is good for me
+Hwist law mhaer annin	I do not like breezes
+Hwist law mhaer annin	breezes are not good for me
+Hwist maer annin	I like breezes
+Hwist maer annin	breezes are good for me
+Madha law mhaer annin	I do not like mud
+Madha law mhaer annin	mud is not good for me
+Madha maer annin	I like mud
+Madha maer annin	mud is good for me
+Mîth law mhaer annin	I don't like dense fog
+Mîth law mhaer annin	dense fog is not good for me
+Mîth maer annin	I like dense fog
+Mîth maer annin	dense fog is good for me
+Ross law mhaer annin	I do not like rain
+Ross law mhaer annin	rain is not good for me
+Ross maer annin	I like rain
+Ross maer annin	rain is good for me
+Alfarn	not enough
+Farn	that will suffice
+Farn	enough
+Cilo mach!	choose an item!
+Colo hen annin	hold onto this for me
+Colo hen annin	carry this for me
+Antho den annin	give it to me
+Banchathab?	shall we trade?
+Banchathab?	do we agree to trade?
+Banchathanc?	shall the two of us trade?
+Banchathanc?	do we agree to trade?
+Den aníron	I want it
+Hain aníron	I want those
+Han aníron	I want that
+Hen aníron	I want this
+Hin aníron	I want these
+Leutho mach!	pick out an item!
+Leutho mach!	pick up an item!
+Mabo hen	take this
+Man anírodh athen?	what do you want for it?
+Man anírodh?	what do you want?
+Man anírog athen?	what do you want for it?
+Man anírog?	what do you want?
+Niñ gweriog	you are cheating me
+Niñ gweriog	you cheat me
+Echuio	wake up
+Echuio	awaken
+Loro hi	sleep here
+Posto hí	rest here
+Posto hí	pause here
+Aníron mened	I wish to go
+Aníron mened	I desire to go
+Aphado den	follow him
+Aphado den	follow her
+Aphado den	follow it
+Aphado din	follow them
+Aphado mhen	follow us
+Aphado nin	follow me
+Aphado	follow
+Avo nandolo	do not come back
+Avo nandolo	do not return
+Boe achin mened	you must go
+Boe achin mened	it is necessary to you to leave
+Boe ammen mened	we must go
+Boe ammen mened	it is necessary to us to leave
+Boe anden mened	you must go
+Boe anden mened	it is necessary to you to leave
+Boe annin lored	I need to sleep
+Boe annin lored	it is necessary for me to sleep
+Boe annin postad	I need to rest
+Boe annin postad	it is necessary for me to rest
+Boe annin mened	I must go
+Boe annin mened	it is necessary for me to leave
+Boe anwen mened	we must go
+Boe anwen mened	it is necessary to us to leave
+Cenin	I see
+Daro	stop
+Daro	halt
+Den ichíren	I found it
+Farathab?	shall we go hunting?
+Farathab?	are we willing to hunt?
+Farathanc?	shall the two of us go hunting?
+Farathanc?	are we willing to hunt?
+I echad sí	camp here
+I echad sí	the camp is here
+Ma tôg?	who is leading?
+Ma tôg?	who leads?
+Menin anin chaust nîn	I am going to bed
+Menin anin chaust nîn	I go to my bed
+Meno uin râd	move out of the way
+Meno uin râd	go from the path
+Na mhan govedib?	where are we meeting?
+Na mhan govedib?	at where do we meet?
+Na mhan govedimh?	where are we meeting?
+Na mhan govedimh?	at where do we meet?
+Na mhan govedinc?	where are the two of us meeting?
+Na mhan govedinc?	at where do we meet?
+Na mhan i chûd?	where is the meeting?
+Na mhan i chûd?	at where is the assembly?
+Nauthanthen i law mhenathar	I thought they would never leave
+Nauthanthen i law mhenathar	I thought that they would not willingly leave
+O mhan sa odul?	where did that come from?
+Radathon drî i thraw hen ned i postodh	I will find a way through this wilderness while you rest
+Radathon drî i thraw hen ned i postog	I will find a way through this wilderness while you rest
+Semhidh dhâf am mened	you may go
+Semhidh dhâf am mened	you have permission to go
+Semhig dhâf am mened	you may go
+Semhig dhâf am mened	you have permission to go
+Semhimh dhâf am mened?	may we go?
+Semhimh dhâf am mened?	do we have permission to go?
+Semhin dhâf am mened?	may I go?
+Semhin dhâf am mened?	do I have permission to go?
+Togathon	I will go first
+Togathon	I am willing to lead
+Togo	go first
+Togo	lead
+Tolo na naur	come near the fire
+Tolo na naur	come to the fire
+Na mhan anírodh mened?	where do you want to go?
+Na mhan anírodh mened?	to where do you want to go?
+Na mhan anírog mened?	where do you want to go?
+Na mhan anírog mened?	to where do you want to go?
+Aníromh mened na	we want to go to
+Aníromh mened nan’	we want to go to  
+Aníron mened na	I want to go to
+Aníron mened nan’	I want to go to
+Menathab?	shall we go?
+Menathab?	are we willing to go?
+Avab mened	we will not go
+Avab mened	we refuse to go
+Menathab	we will go
+Menathab	we are willing to go
+Menathab	we shall go
+Menib hí	let us go now
+Menib hí	we go now
+Menib	let us go
+Menib	we go
+Menathanc?	shall you and I go?
+Menathanc?	shall we go?
+Menathanc?	are we willing to go?
+Avanc mened	you and I won't go
+Avanc mened	we won't go
+Avanc mened	we refuse to go
+Menathanc	you and I shall go
+Menathanc	we go
+Menathanc	we are willing to go
+Meninc	let us go
+Meninc	we go
+Meninc hí	let us go now
+Meninc hí	we go now
+Na mhan menig?	where will you go?
+Na mhan menig?	where do you go?
+Na mhan menig?	to where will you go?
+Na mhan menig?	to where do you go?
+Menin na	I am going to
+Menin na	I go to
+Menin nan’	I am going to
+Menin nan’	I go to
+Na mhan menidh?	where will you go?
+Na mhan menidh?	where do you go?
+Na mhan menidh?	to where will you go?
+Na mhan menidh?	to where do you go?
+Menimh na	we are going to
+Menimh na	we go to
+Menimh nan’	we are going to
+Menimh nan’	we go to
+Na mhan meninc?	where will you and I go?
+Na mhan meninc?	where do you and I go?
+Na mhan meninc?	where will we go?
+Na mhan meninc?	where do we go?
+Na mhan meninc?	to where will we go?
+Na mhan meninc?	to where do we go?
+Meninc na	you and I are going to
+Meninc na	we are going to
+Meninc na	we go to
+Meninc nan’	you and I are going to
+Meninc nan’	we are going to
+Meninc nan’	we go to
+Na mhan menib?	where will we go?
+Na mhan menib?	where do we go?
+Na mhan menib?	to where will we go?
+Na mhan menib?	to where do we go?
+Menib na	we are going to
+Menib na	we go to
+Menib nan’	we are going to
+Menib nan’	we go to
+Na mhan menimh?	where will we go?
+Na mhan menimh?	where do we go?
+Na mhan menimh?	to where will we go?
+Na mhan menimh?	to where do we go?
+Menidh na	you are going to
+Menidh na	you go to
+Menidh nan’	you are going to
+Menidh nan’	you go to
+Na mhan mên?	where will he go?
+Na mhan mên?	where will she go?
+Na mhan mên?	where will it go?
+Na mhan mên?	where does he go?
+Na mhan mên?	where does she go?
+Na mhan mên?	where does it go?
+Na mhan mên?	to where will he go?
+Na mhan mên?	to where will she go?
+Na mhan mên?	to where will it go?
+Na mhan mên?	to where does he go?
+Na mhan mên?	to where does she go?
+Na mhan mên?	to where does it go?
+Mên na	he is going to
+Mên na	she is going to
+Mên na	it is going to
+Mên na	he goes to
+Mên na	she goes to
+Mên na	it goes to
+Mên nan’	he is going to
+Mên nan’	she is going to
+Mên nan’	it is going to
+Mên nan’	he goes to
+Mên nan’	she goes to
+Mên nan’	it goes to
+Na mhan menir?	where will they go?
+Na mhan menir?	where do they go?
+Na mhan menir?	to where will they go?
+Na mhan menir?	to where do they go?
+Menir na	they are going to
+Menir na	they go to
+Menir nan’	they are going to
+Menir nan’	they go to
+Na mhan emhíneg?	where did you go?
+Na mhan emhíneg?	to where did you go?
+Emhínen na	I went to
+Emhínen nan’	I went to
+Na mhan emhínedh?	where did you go?
+Na mhan emhínedh?	to where did you go?
+Emhínemh na	we went to
+Emhínemh nan’	we went to
+Na mhan emhínenc?	where did the two of us go?
+Na mhan emhínenc?	to where did we go?
+Na mhan emhínenc?	where did we go?
+Emhínenc na	you and I went to
+Emhínenc na	we went to
+Emhínenc nan’	you and I went to
+Emhínenc nan’	we went to
+Na mhan emhíneb?	where did we go?
+Na mhan emhíneb?	to where did we go?
+Emhíneb na	we went to
+Emhíneb nan’	we went to
+Na mhan emhin?	where did he go?
+Na mhan emhin?	where did she go?
+Na mhan emhin?	where did it go?
+Na mhan emhin?	to where did he go?
+Na mhan emhin?	to where did she go?
+Na mhan emhin?	to where did it go?
+Emhin na	he went to
+Emhin na	she went to
+Emhin na	it went to
+Emhin nan’	he went to
+Emhin nan’	she went to
+Emhin nan’	it went to
+Na mhan emhíner?	where did they go?
+Na mhan emhíner?	to where did they go?
+Emhíner na	they went to
+Emhíner nan’	they went to
+Na mhan nidhig mened?	where do you intend to go?
+Na mhan nidhig mened?	to where do you intend to go?
+Nidhin mened na	I intend to go to
+Na mhan nidhidh mened?	where do you intend to go?
+Na mhan nidhidh mened?	to where do you intend to go?
+Nidhimh mened na	we intend to go to
+Nidhimh mened nan’	we intend to go to
+Ne man menathanc?	when will the two of us leave?
+Ne man menathanc?	when will we leave?
+Ne man menathanc?	during when do we leave?
+Menathanc ned	you and I will leave
+Menathanc ned	we will leave
+Ne man menathab?	when will we leave?
+Ne man menathab?	during when do we leave?
+Menathab ned	we will leave
+Ne man menathomh?	when will we leave?
+Ne man menathomh?	during when do we leave?
+Menathodh ned	you will leave
+Ne man menig?	when will you leave?
+Ne man menig?	when do you leave?
+Ne man menig?	during when do you leave?
+Menin ned	I am going
+Menin ned	I go
+Ne man menidh?	when will you leave?
+Ne man menidh?	when do you leave?
+Ne man menidh?	during when do you leave?
+Menimh ned	we are going
+Menimh ned	we go
+Ne man menin?	when will I leave?
+Ne man menin?	during when do I leave?
+Menig ned	you are going
+Menig ned	you go
+Ne man meninc?	when do the two of us leave?
+Ne man meninc?	when do we leave?
+Ne man meninc?	during when do we leave?
+Meninc ned	you and I are going
+Meninc ned	we go
+Meninc ned	we are going
+Ne man menib?	when do we leave?
+Ne man menib?	during when do we leave?
+Menib ned	we are going
+Menib ned	we go
+Ne man menimh?	when do we leave?
+Ne man menimh?	during when do we leave?
+Menidh ned	you are going
+Menidh ned	you go
+Ne man mên?	when will he leave?
+Ne man mên?	when will she leave?
+Ne man mên?	when will it leave?
+Ne man mên?	when does he leave?
+Ne man mên?	when does she leave?
+Ne man mên?	when does it leave?
+Ne man mên?	during when does he leave?
+Ne man mên?	during when does she leave?
+Ne man mên?	during when does it leave?
+Mên ned	he is going during
+Mên ned	she is going during
+Mên ned	it is going during
+Mên ned	he goes during
+Mên ned	she goes during
+Mên ned	it goes during
+Ne man menir?	when will they leave?
+Ne man menir?	when do they leave?
+Ne man menir?	during when do they leave?
+Ne man menir?	during when will they leave?
+Menir ned	they are going during
+Menir ned	they go during
+Meno na	go to
+Meno nan’	go to
+Tolathog?	would you please come?
+Tolathog?	are you willing to come?
+Avon toled	I will not come
+Avon toled	I refuse to come
+Tolathon	I will come
+Tolathon	I am willing to come
+Tolathodh?	would you please come?
+Tolathodh?	are you willing to come?
+Avomh toled	we will not come
+Avomh toled	we refuse to come
+Tolathomh	we will come
+Tolathomh	we are willing to come
+Tolathanc?	shall you and I come?
+Tolathanc?	shall we come?
+Tolathanc?	are we willing to come?
+Tolathanc?	are you and I willing to come?
+Avanc toled	you and I will not come
+Avanc toled	we will not come
+Avanc toled	we refuse to come
+Tolathanc	you and I will come
+Tolathanc	we will come
+Tolathanc	we are willing to come
+Tolathab?	shall we come?
+Tolathab?	are we willing to come?
+Avab toled	we will not come
+Avab toled	we refuse to come
+Tolathab	we will come
+Tolathab	we are willing to come
+Telin	I am coming
+Tolo a nin	come with me
+Tolo annin	come to me
+Tolo hí	come here
+Tolo na	come to
+Tolo nan’	come to
+Amman odúleg hi?	why are you here?
+Amman odúleg hi?	for what did you come here?
+Amman odúledh hi?	why are you here?
+Amman odúledh hi?	for what did you come here?
+O mhan telig?	where are you from?
+O mhan telig?	from where are you coming?
+Telin o	I am from
+Telin o	I am coming from
+Telin od	I am from
+Telin od	I am coming from
+O mhan telidh?	where are you from?
+O mhan telidh?	from where are you coming?
+Telimh o	we are from
+Telimh o	we are coming from
+Telimh od	we are from
+Telimh od	we are coming from
+O mhan odúleg?	where were you from?
+O mhan odúleg?	from where did you come?
+Odúlen o	I came from
+Odúlen od	I came from
+O mhan odúledh?	where were you from?
+O mhan odúledh?	from where did you come?
+Odúlemh o	we came from
+Odúlemh od	we came from
+Ni faug	I am thirsty
+Ni lôm	I am tired
+Ni lôm	I am weary
+Tolo a phosto	come and rest
+Tolo, mado, a sogo e-mereth	come, eat, and drink of the feast
+Uhunc ylmh ú-nedui	he had too many cups of drink
+Uhunc ylmh ú-nedui	she had too many cups of drink
+Uhunc ylmh ú-nedui	it had too many cups of drink
+Uhunc ylmh ú-nedui	he drank uncountable cups of drink
+Uhunc ylmh ú-nedui	she drank uncountable cups of drink
+Uhunc ylmh ú-nedui	it drank uncountable cups of drink
+uhunc ylmh ú-nedui	had too many cups of drink
+uhunc ylmh ú-nedui	drank uncountable cups of drink
+Anírog mhann?	do you want food?
+Law aníron mhann	I do not want food
+Aníron mhann	I want food
+Anírodh mhann?	do  you want food?
+Law aníromh mhann	we do not want food
+Aníromh mhann	we want food
+Anírog aes?	do you want meat?
+Anírol aes?	do you want meat?
+Law aníron aes	I do not want meat
+Aníron aes	I want meat
+Anírodh aes?	do you want meat?
+Law aníromh aes	we do not want meat
+Aníromh aes	we want meat
+Anírog chaust?	do you want a bed?
+Anírol chaust?	do you want a bed?
+Law aníron chaust	I do not want a bed
+Aníron chaust	I want a bed
+Anírodh chaust?	do you want a bed?
+Law aníromh chaust	we do not want a bed
+Aníromh chaust	we want a bed
+Anírog halph?	do you want broth?
+Anírol halph?	do you want broth?
+Law aníron halph	I do not want broth
+Aníron halph	I want broth
+Anírodh halph?	do you want broth?
+Law aníromh halph	we do not want broth
+Aníromh halph	we want broth
+Anírog haw?	do you want juice?
+Anírol haw?	do you want juice?
+Law aníron haw	I do not want juice
+Aníron haw	I want juice
+Anírodh haw?	do you want juice?
+Law aníromh haw	we do not want juice
+Aníromh haw	we want juice
+Anírog masgorn?	do you want a breadloaf?
+Anírol masgorn?	do you want a breadloaf?
+Law aníron masgorn	I do not want a breadloaf
+Aníron masgorn	I want a breadloaf
+Anírodh masgorn?	do you want a breadloaf?
+Law aníromh masgorn	we do not want a breadloaf
+Aníromh masgorn	we want a breadloaf
+Anírog mass?	do you want bread?
+Anírol mass?	do you want bread?
+Law aníron mass	I do not want bread
+Aníron mass	I want bread
+Anírodh mass?	do you want bread?
+Law aníromh mass	we do not want bread
+Aníromh mass	we want bread
+Anírog nên?	do you want water?
+Anírol nên?	do you want water?
+Law aníron nên	I do not want water
+Aníron nên	I want water
+Anírodh nên?	do you want water?
+Law aníromh nên	we do not want water
+Aníromh nên	we want water
+Go-mhaethathab ne ndagor?	will you join me in battle?
+Go-mhaethathab ne ndagor?	will we fight together in battle?
+Go-mhaethathab ne ndagor?	shall we fight together in battle?
+Go-mhaethathanc ne ndagor?	will you join me in battle?
+Go-mhaethathanc ne ndagor?	will we fight together in battle?
+Go-mhaethathanc ne ndagor?	shall we fight together in battle?
+Go-mhaethathab ned auth?	will you join me in war?
+Go-mhaethathab ned auth?	will we fight together in war?
+Go-mhaethathab ned auth?	shall we fight together in war?
+Go-mhaethathanc ned auth?	will you join me in war?
+Go-mhaethathanc ned auth?	will we fight together in war?
+Go-mhaethathanc ned auth?	shall we fight togeter in war?
+Iston i vellas dhîn ne ndagor	I know your strength in battle
+Iston i vellas dhîn ne ndagor	I know your physical strength in battle
+De mhaethor mhaen e-beng	you are a skillfull bowman
+De mhaethor mhaen e-beng	you are a skilled warrior of the bow
+De mhaethor veleg	you are a mighty warrior
+De mhaethor veleg	you are a great warrior
+Avo dheo annin	do not fail me
+Avo dheo annin	do not fail for me
+Mhe thorthodh	we are yours to command
+Mhe thorthodh	you control us
+Telir yrch!	orcs are coming!
+Telir yrch!	orcs come!
+Tôl auth	war is coming
+Tôl auth	war comes
+Trastad?	is there trouble?
+Trastad?	trouble?
+Gurth ani chyth ‘wîn	death to our enemies
+Gurth anin yrch	death to the orcs
+I philinn ‘wîn gwathrar Anor	our arrows blot out the sun
+I philinn ‘wîn gwathrar Anor	our arrows obscure the sun
+I beng nîn linna ah i mhagol dhîn	my bow shall sing with your sword
+I chethyl ‘wîn hastar in echaid i-chyth ‘wîn	our axes cleave our foes' necks
+I chethyl ‘wîn hastar in echaid i-chyth ‘wîn	our axes hack through the necks of our foes
+I christ ‘wîn ristar i thaind i-chyth ‘wîn	our swords cleave our foes' shields
+I christ ‘wîn ristar i thaind i-chyth ‘wîn	our swords cleave the shields of our foes
+I chyth ‘wîn dregar o gwen sui fuin drega od Anor	our foes flee like the darkness from the sun
+I chyth ‘wîn dregar o gwen sui fuin drega od Anor	our enemies flee from us like darkness flees from the sun
+In aich i-chyth ‘wîn sílar nu Anor	the bones of our foes gleam under the sun
+In *aich i-chyth ‘wîn sílar nu Anor	the bones of our enemies shine white under the sun
+Nidhib di ndaged ne ndagor	we will defeat them in battle
+Nidhib di ndaged ne ndagor	we intend to slay them in battle
+Nidhinc di ndaged ne ndagor	you and I will defeat them in battle
+Nidhinc di ndaged ne ndagor	we will defeat them in battle
+Nidhinc di ndaged ne ndagor	we intend to slay them in battle
+Nidhinc di ndaged ne ndagor	you and I will slay them in battle
+Samho chûr an dagor	be ready for battle
+Samho chûr an dagor	have readiness for battle
+Gadas!	it is a trap!
+Gadas!	a trap!
+Gadas!	trap!
+Avo nago den	do not kill him
+Avo nago den	do not kill her
+Avo nago den	do not kill it
+Avo nago nin	do not kill me
+Dago den	kill him
+Dago den	kill her
+Dago den	kill it
+Dago din	kill them
+Dago i chyth	kill the enemies
+Dago i chyth	slay the enemies
+Dago i dorog	kill the troll
+Dago i dorog	slay the troll
+Dago i goth	kill the enemy
+Dago i goth	slay the enemy
+Dago i orch	kill the orc
+Dago i orch	slay the orc
+Dago i theryg	kill the trolls
+Dago i theryg	slay the trolls
+Dago in yrch	kill the orcs
+Dago in yrch	slay the orcs
+Dago nin	kill me
+Daro a maetho	stay and fight
+Daro a maetho	remain and fight
+Delio!	hide!
+Delio!	conceal!
+Drego	flee
+Gwedho den	tie him up
+Gwedho den	tie her up
+Gwedho den	tie it up
+Gwedho den	bind him
+Gwedho den	bind her
+Gwedho den	bind it
+Gwedho din	tie them up
+Gwedho din	bind them
+Leithio i philinn	loose the arrows
+Leithio i philinn	release the arrows
+Maetho i megil dhîn	draw your swords
+Maetho i megil dhîn	wield your swords
+Maetho na lû n’i maethorath denchin	fight to the last man
+Maetho na lû n’i maethorath denchin	fight to the time when all warriors are slain
+No dirweg	be careful
+No dirweg	be watchful
+No guin i phing dhîn!	get ready to shoot!
+No guin i phing dhîn!	bend your bows!
+Noro	run
+Noro lim	run fast
+Northo	charge
+Northo	charge your horses at them
+Os-mheno adel din	go around them
+Os-mheno adel din	go around behind them
+Devig?	do you yield?
+Devin	I yield
+Devidh?	do you yield?
+Devimh	we yield
+Mhe meriathog?	would you please protect us?
+Mhe meriathog?	are you willing to protect us?
+Natho!	help!
+Natho!	save us!
+Natho!	rescue us!
+Natho!	bring help!
+Pi law di chirib ned aduial, ti gwand	if we do not find them before nightfall, they are dead
+Pi law di chirib ned aduial, ti gwand	if we do not find them during the evening twilight, they are dead
+Delu i mhen hen	this road is dangerous
+Delu i mhen hen	this road is fell
+Te harn	he is hurt
+Te harn	she is hurt
+Te harn	it is hurt
+Te harn	she is wounded
+Te harn	he is wounded
+Te harn	it is wounded
+Ti hern	they are hurt
+Ti hern	they are wounded
+harn	is hurt
+harn	is wounded
+danthas mi eithel	fell in as well
+I goth ant	the enemy has locked
+I goth ant	the enemy incarcerated
+mi ‘ador	in the dungeon
+I goth den ant mi ‘ador	the enemy has locked him in the dungeon
+I goth den ant mi ‘ador	the enemy has locked her in the dungeon
+I goth den ant mi ‘ador	the enemy has locked it in the dungeon
+I goth den ant mi ‘ador	the enemy incarcerated him in the dungeon
+I goth den ant mi ‘ador	the enemy incarcerated her in the dungeon
+I goth den ant mi ‘ador	the enemy incarcerated it in the dungeon
+I goth din ant mi ‘ador	the enemy has locked them in the dungeon
+I goth din ant mi ‘ador	the enemy incarcerated them in the dungeon
+Natho den	help him
+Natho den	help her
+Natho den	help it
+Natho din	help them
+Natho mhen	help us
+Natho nin	help me
+Natho	help
+Nesto den	heal him
+Nesto den	heal her
+Nesto den	heal it
+Nesto din	heal them
+Nesto mhen	heal us
+Nesto nin	heal me
+Nesto	heal
+Leithio den	release him
+Leithio den	release her
+Leithio den	release it
+Leithio din	release them
+Leithio mhen	release us
+Leithio nin	release me
+Leithio	release
+Berio den	protect him
+Berio den	protect her
+Berio den	protect it
+Berio din	protect them
+Berio mhen	protect us
+Berio nin	protect me
+Berio	protect
+De nathathodh?	would you please help him?
+De nathathodh?	would you please help her?
+De nathathodh?	would you please help it?
+De nathathodh?	are you willing to help him?
+De nathathodh?	are you willing to help her?
+De nathathodh?	are you willing to help it?
+De nathathog?	would you please help him?
+De nathathog?	would you please help her?
+De nathathog?	would you please help it?
+De nathathog?	are you willing to help him?
+De nathathog?	are you willing to help her?
+De nathathog?	are you willing to help it?
+Dhe nathathon	I am willing to help you
+Dhe nathathon	I will help you
+Di nathathodh?	would you please help them?
+Di nathathodh?	are you willing to help them?
+Di nathathog?	would you please help them?
+Di nathathog?	are you willing to help them?
+Gi nathathon	I will help you
+Gi nathathon	I am willing to help you
+Mhe nathathodh?	would you please help us?
+Mhe nathathodh?	are you willing to help us?
+Mhe nathathog?	would you please help us?
+Mhe nathathog?	are you willing to help us?
+Ni nathathodh?	would you please help me?
+Ni nathathodh?	are you willing to help me?
+Ni nathathog?	would you please help me?
+Ni nathathog?	are you willing to help me?
+De nestathodh?	would you please heal him?
+De nestathodh?	would you please heal her?
+De nestathodh?	would you please heal it?
+De nestathodh?	are you willing to heal him?
+De nestathodh?	are you willing to heal her?
+De nestathodh?	are you willing to heal it?
+De nestathog?	would you please heal him?
+De nestathog?	would you please heal her?
+De nestathog?	would you please heal it?
+De nestathog?	are you willing to heal him?
+De nestathog?	are you willing to heal her?
+De nestathog?	are you willing to heal it?
+Dhe nestathon	I will heal you
+Dhe nestathon	I am willing to heal you
+Di nestathodh?	would you please heal them?
+Di nestathodh?	are you willing to heal them?
+Di nestathog?	would you please heal them?
+Di nestathog?	are you willing to heal them?
+Gi nestathon	I will heal you
+Gi nestathon	I am willing to heal you
+Mhe nestathodh?	would you please heal us?
+Mhe nestathodh?	are you willing to heal us?
+Mhe nestathog?	would you please heal us?
+Mhe nestathog?	are you willing to heal us?
+Ni nestathodh?	would you please heal me?
+Ni nestathodh?	are you willing to heal me?
+Ni nestathog?	would you please heal me?
+Ni nestathog?	are you willing to heal me?
+De leithiathodh?	would you please release him?
+De leithiathodh?	would you please release her?
+De leithiathodh?	would you please release it?
+De leithiathodh?	are you willing to realse him?
+De leithiathodh?	are you willing to release her?
+De leithiathodh?	are you willing to release it?
+De leithiathog?	would you please release him?
+De leithiathog?	would you please release it?
+De leithiathog?	would you please release her?
+De leithiathog?	are you willing to release him?
+De leithiathog?	are you willing to release her?
+De leithiathog?	are you willing to release it?
+Dhe leithiathon	I will release you
+Dhe leithiathon	I am willing to release you
+Di leithiathodh?	would you please release them?
+Di leithiathodh?	are you willing to release them?
+Di leithiathog?	would you please release them?
+Di leithiathog?	are you willing to release them?
+Gi leithiathon	I will release you
+Gi leithiathon	I am willing to release you
+Mhe leithiathodh?	would you please release us?
+Mhe leithiathodh?	are you willing to release us?
+Mhe leithiathog?	would you please release us?
+Mhe leithiathog?	are you willing to release us?
+Ni leithiathodh?	would you please release me?
+Ni leithiathodh?	are you willing to release me?
+Ni leithiathog?	would you please release me?
+Ni leithiathog?	are you willing to release me?
+De meriathodh?	would you please protect him?
+De meriathodh?	would you please protect her?
+De meriathodh?	would you please protect it?
+De meriathodh?	are you willing to protect him?
+De meriathodh?	are you willing to protect her?
+De meriathodh?	are you willing to protect it?
+De meriathog?	would you please protect him?
+De meriathog?	would you please protect her?
+De meriathog?	would you please protect it?
+De meriathog?	are you willing to protect him?
+De meriathog?	are you willing to protect her?
+De meriathog?	are you willing to protect it?
+Dhe meriathon	I will protect you
+Dhe meriathon	I am willing to protect you
+Di meriathodh?	would you please protect them?
+Di meriathodh?	are you willing to protect them?
+Di meriathog?	would you please protect them?
+Di meriathog?	are you willing to protect them?
+Gi meriathon	I will protect you
+Gi meriathon	I am willing to protect you
+Mhe meriathodh?	would you please protect us?
+Mhe meriathodh?	are you willing to protect us?
+Ni meriathodh?	would you please protect me?
+Ni meriathodh?	are you willing to protect me?
+Ni meriathog?	would you please protect me?
+Ni meriathog?	are you willing to protect me?
+Davo annin	let me
+Davo annin	allow for me to
+Aníron	I want to
+Avon	I will not
+Avon	I refuse to
+Boe	One needs to be
+Boe	It is necessary to
+Ni si an	I am here for
+Ni si an	I am here to
+Nidhin	I will
+Nidhin	I itend to
+Nidhin	itend to
+Tolen	I will
+Tolen	I am going to
+Tolen	I am coming to
+de nathad	help him
+de nathad	help her
+de nathad	help it
+dhe nathad	help you
+di nathad	help them
+gi nathad	help you
+mhe nathad	help us
+nathad ben	help someone
+nathad	help
+ni nathad	help me
+de nestad	heal him
+de nestad	heal her
+de nestad	heal it
+dhe nestad	heal you
+di nestad	heal them
+gi nestad	heal you
+mhe nestad	heal us
+nestad ben	heal someone
+nestad	heal
+ni nestad	heal me
+de leithiad	release him
+de leithiad	release her
+de leithiad	release it
+dhe leithiad	release you
+di leithiad	release them
+gi leithiad	rlease you
+leithiad ben	release someone
+leithiad	release
+mhe leithiad	release us
+ni leithiad	release me
+beriad ben	protect someone
+beriad	protect
+de meriad	protect him
+de meriad	protect her
+de meriad	protect it
+dhe meriad	protect you
+di meriad	protect them
+gi meriad	protect you
+mhe meriad	protect us
+ni meriad	protect me
+Gellon ned i cenin i chent dhîn ned i gladhodh	I love to see your eyes shine when you laugh
+Gellon ned i cenin i chent dhîn ned i gladhodh	I delight when your eyes shine when you laugh
+Anthon i mheleth nîn anden	I give you my love
+De i mheleth e-guil nîn	you are the love of my life
+De i mhelethril e-guil nîn	you are the love of my life
+De i mhelethril nîn	you are my love
+De i mhelethron e-guil nîn	you are the love of my life
+De i mhelethron nîn	you are my love
+Semhidh i mheleth nîn	you have my love
+Ni mestathodh?	will you marry me?
+Avon dhe mestad	I will not marry you
+Avon dhe mestad	I refuse to marry you
+Avon gi mestad	I will not marry you
+Avon gi mestad	I refuse to marry you
+Dhe mestathon	I will marry you
+Ni melathodh n’uir?	will you love me for eternity?
+Ni melathog n’uir?	will you love me for eternity?
+Ni melidh?	do you love me?
+Ni melig?	do you love me?
+Law dhe melin	I do not love you
+Law gi melin	I do not love you
+Dhe melin	I love you
+Gi melin	I love you
+De melidh?	do you love him?
+De melidh?	do you love her?
+De melidh?	do you love it?
+De melig?	do you love him?
+De melig?	do you love her?
+De melig?	do you love it?
+De melin	I love him
+De melin	I love her
+De melin	I love it
+And i dhûmh hen	you are in for a long night
+And i dhûmh hen	long will be this night
+Ci írui	you are desireable
+Aníron cened i chent gîn n’i gellog	I want to see your eyes when you rejoice
+Istog an *challas hadhod maer	you know for which a dwarves height is good
+Istog an *challas perian maer	you know for whiche a hobbits height is good
+Matho nin sui mathog i mhagol gîn	wield me as you wield a sword
+Matho nin sui mathog i mhagol gîn	wield me like you wield a sword
+Reithathanc nad ‘wain	let us try something new
+Reithathanc nad ‘wain	we are willing to try something new
+Am egor nu?	top or bottom?
+Am egor nu?	over or under?
+Am	top
+Am	over
+Nu	bottom
+Nu	under
+Ni am gin anin lûmh hen?	I am on you this time?
+Ni nu gin anin lûmh hen?	I am under you this time?
+I lebid nîn egor i baur nîn?	my fingers or my fist?
+Gellon n’i iuithog i baur gîn	I delight when you use your fist
+I baur gîn	your fist
+I lebid gîn	your fingers
+Avo bedo ‘semhin i dhâf’ a charo!	do not say 'do I have permission' and do it!
+Semhin i dhâf gîn an gi mibed?	can I kiss you?
+Semhin i dhâf gîn an gi mibed?	do I have permission to kiss you?
+Mibo nin!	kiss me!
+Semhin i dhâf gîn an de lamhed?	can I lick it?
+Semhin i dhâf gîn an de lamhed?	do I have your permission to lick it?
+Lamho den	lick it
+Semhin i dhâf gîn de nestaged hi?	can I put it in now?
+Semhin i dhâf gîn de nestaged hi?	do I have your permission to insert it in now?
+Nestago den!	put it in!
+Nestago den!	insert it!
+Pathro	fill
+Alae, rimmog	behold, you flow like a torrent
+Heltho	strip
+No gûn annin	be bent for me
+Hiro i râph	find the rope
+Gwedho nin ah ú-belin mened, bauglirig	bind me and I can not leave, tyrant
+Pelio ‘laew	spread the salve
+Po mhan ‘laew?	where is the salve
+Po mhan ‘laew?	where is the lubrication
+A-charo!	do it again!
+A-charo!	again!
+Avo dharo!	do not stop!
+Brono i vellas hen trî dhû!	may this energy last the night!
+Brono i vellas hen trî dhû!	may this strenght last throughout the night!
+Dringo nin!	beat me!
+Mi mhan ha nestegig?	where do you think you are putting that?
+Mi mhan ha nestegig?	where are you putting that?
+Ritho! No lagor!	make rapid movements! be fast!
+Av-edro fennas! Ni helt!	do not open the door! I am naked!
+N’i dandelig, tampho	next time, knock
+N’i dandelig, tampho	when you return, knock
+A, theilin i chedhyd teiliar	oh, the games that dwarves play
+A, theilin in edain teiliar	oh, the games that men play
+A, theilin in edain teiliar	oh, the games that humans play
+A, theilin in edhil teiliar	oh, the games that elves play
+Nauthon den i ‘lam trasta i sammarath ‘wîn	I think the noise upsets the neighbors
+Nauthon den i ‘lam trasta i sammarath ‘wîn	I think that the noise disturbs all of our neighbors
+Ned i postog a nin, ni bant	when you lie beside me, I am complete
+Ned i postog a nin, ni bant	when you rest besides me, I am complete
+Meren i dhû hen. Bestassenc?	what a night. Does this mean we are married?
+Meren i dhû hen. Bestassenc?	joyous was the night. Are we wed?
+Hiro hîdh neñ gurth	find peace in death
+Nínion anin gurth dhîn	I weep for your death
+Nínion anin gwannad dhîn	I mourn your passing
+Nínion anin gwannad dhîn	I weep for your passing
+Govado i nothrim în ah i mellyn în mi Mannos	may you join your family and friends in the afterlife
+Govado i nothrim în ah i mellyn în mi Mannos	may you meet your family and friends in Mandos
+Gwannast vae	he died well
+Gwannast vae	she died well
+Gwannast vae	it died well
+Samho hîdh neñ gurth	have peace in death
+Goltho nin	teach me
+Niñ golthathodh?	would you please teach me?
+Niñ golthathodh?	will you teach me?
+Avon dheñ golthad	I will not teach you
+Avon dheñ golthad	I refuse to teach you
+Avon giñ golthad	I will not teach you
+Avon giñ golthad	I refuse to teach you
+Giñ golthathon	I will teach you
+Dheñ golthathon	I will teach you
+Istanthathodh o	you give knowledge about
+annin	to me
+Istantho o	give knowledge about
+Aníron geliad o	I want to learn how to
+Aníron geliad o	I want to learn about
+Avon istaned o	I will not give knowledge about
+achin	to you
+anden	to you
+Istanthathon o	I will give knowledge about
+Istannathon o	I will give knowledge about
+bastad	bake bread
+bastad	baking bread
+lhilthad	dance
+lhilthad	dancing
+magad	forge metal
+magad	forging metal
+medhiad mhaeas	knead dough
+medhiad mhaeas	kneading dough
+chaded bilind	shoot arrows
+chaded bilind	shooting an arrow
+chaded aith	throw spears
+chaded aith	throwing spears
+chaded ecthel	throw spears
+chaded ecthel	throwing spears
+chared adab	build a building
+chared adab	building a building
+chared eithel	build a well
+chared eithel	building a well
+chared fennas	build a gate
+chared fennas	building a gate
+chared gair	build a boat
+chared gair	building a boat
+chared iant	build a bridge
+chared iant	building a bridge
+chared iâth	building a fence
+chared iâth	build a fence
+chared lembas	make lembas
+chared lembas	making lembas
+chared mardh	build a house
+chared mardh	building a house
+chared mhiruvor	make miruvor
+chared mhiruvor	making miruvor
+chared râm	build a wall
+chared râm	building a wall
+chared varad	build a fortress
+chared varad	building a fortress
+charphad sui adan	speak like a man
+charphad sui adan	speak like a human
+charphad sui adan	speaking like a man
+charphad sui adan	speaking like a human
+charphad sui chadhod	speak like a dwarf
+charphad sui chadhod	speaking like a dwarf
+charphad sui edhel	speaking like an elf
+charphad sui edhel	speak like an elf
+charphad sui ñolodh	speak like a Noldorin Elf
+charphad sui ñolodh	speaking like a Noldo
+cheniad Annúnaid	understand Westron
+cheniad Annúnaid	understanding Westron
+cheniad Chadhodren	understand Dwarvish
+cheniad Chadhodren	understanding Dwarvish
+cheniad Edhellen	understand Sindarin
+cheniad Edhellen	understand Elvish
+cheniad Ñolodhbaeth	understand Quenya
+cheniad Ñolodhbaeth	understanding Quenya
+chrithad	reap
+chrithad	reaping
+farad	hunt
+farad	hunting
+gannadad	play a harp
+gannadad	playing a harp
+gobenthas	history
+gonoded	math
+hangerthas	read runes
+hangerthas	the runic alphabet
+hechaded bilind	fashion an arrow
+hechaded bilind	fashioning an arrow
+hechaded gorf	fashion a ring
+hechaded gorf	fashioning a ring
+hechaded aith	fashion a spearpoint
+hechaded aith	fashioning a spearpoint
+hechaded beng	fashion a bow
+hechaded beng	fashioning a bow
+hechaded châdh	fashioning a cleaver
+hechaded châdh	fashion a cleaver
+hechaded chathol	fashion an axe
+hechaded chathol	fashioning an axe
+hechaded ecthel	fashion a spearpoint
+hechaded ecthel	fashioning a spearpoint
+hechaded grist	fashion a cleaver
+hechaded grist	fashioning a cleaver
+hechaded lang	fashion a cutlass
+hechaded lang	fashioning a cutlass
+hechaded mhagol	fashion a sword
+hechaded mhagol	fashioning a sword
+hechaded ñannel	fashion a harp
+hechaded ñannel	fashioning a harp
+hechaded nell	fashion a bell
+hechaded nell	fashioning a bell
+hechaded rôm	fashion a trumpet
+hechaded rôm	fashioning a trumpet
+hi deilien hen	play this game
+hi deilien hen	this game
+lhinnad	chant
+lhinnad	chanting
+lhiriad	sing
+lhiriad	singing
+lhuithad	cast a spell
+lhuithad	enchanting
+maethad	fight
+maethad	fighting
+maethad na châdh	fight with a cleaver
+maethad na châdh	fighting with a cleaver
+maethad na chathol	fight with an axe
+maethad na chathol	fighting with an axe
+maethad na christ	fight with a cleaver
+maethad na christ	fighting with a cleaver
+maethad na lang	fighting with a cutlass
+maethad na lang	fight with a cutlass
+maethad na magol	fight with a sword
+maethad na magol	fighting with a sword
+maethad na pheng	fight with a bow
+maethad na pheng	fighting with a bow
+maethad nan i phoer nîn	fight with my fists	
+maethad nan i phoer nîn	fighitng with my fists
+narad	tell a story
+narad	narrating a story
+nellad	ring a bell
+nellad	ringing a bell
+nestad	heal
+nestad	healing
+northad roch	ride a horse
+northad roch	riding a horse
+theithad dîw	write Tengwar
+theithad dîw	writing Tengwar letters
+theithad girth	write ruins
+theithad girth	writing ruins
+theliad rôm	play a trumpet
+theliad rôm	playing a trumpet
+thiwdi	read Tengwar
+thiwdi	the Tengwar alphabet
+gwennig	my little maid
+gwennig	maiden
+ionneg	my little boy
+ionneg	my little son
+ionneg	little boy
+ionneg	little son
+pinig	my little one
+pinig	little
+aran mhuin	beloved king
+bereth mhuin	beloved queen
+brannon mhuin	beloved lord
+brennil mhuin	beloved lady
+caun mhuin	beloved prince
+cund mhuin	beloved prince
+heryn mhuin	beloved lady
+hîr mhuin	beloved lord
+hiril mhuin	beloved lady
+rîn mhuin	beloved queen
+rîs mhuin	beloved queen
+Eglerio!	glorify!
+Edregol mhaer	that is wonderful
+Edregol mhaer	especially good
+Agóredh mhae	you did well
+Mae benthen	well said
+Mae garnen	well done
+Goheno nin; i ‘lîr dhîn ni phrestant	forgive me; but your song moved me
+Goheno nin; i ‘lîr dhîn ni phrestant	forgive me; your song moved me
+Gannadodh mhae	you play the harp well
+Linnog mhae	you sing well
+Linnodh mhae	you wing well
+Ned i linnodh, im in elin gellar	when you sing, the stars themselves rejoice
+N’uir i thiad dhîn ‘ell	ever is your presence a joy
+N’uir i thiad dhîn ‘ell	for eternity your appearance is a joy
+Mae thiol	looking good
+Mae thiol	appearing well
+Bain i find dhîn	your hair is pretty
+Bain i find dhîn	beautiful is your hair
+Bain i find dhîn	your hair is beautiful
+Palan-hinthen i thîr vain dhîn	your beauty is famous
+Palan-hinthen i thîr vain dhîn	known far and wide is your fair face
+Thiodh mhae	you look good
+Thiodh mhae	you seem well
+De a mellon	you are with a friend
+De a mellyn	you are with friends
+De i mhellon nîn n’uir	forever you are my friend
+De i mhellon nîn n’uir	you are my friend for eternity
+I goth-e-goth nîn i mhellon nîn	the enemy of my enemy is my friend
+Pedathab hi sui mhellyn?	may we speak as friends now?
+Pedathab hi sui mhellyn?	we will speak now as friends?
+Ci athae	thank you
+Ci athae	you were helpful
+Ci athae	you are helpful
+De athae	thank you
+De athae	you were helpful
+De athae	you are helpful
+Ci fael	thank you
+Ci fael	you were generous
+Ci fael	you were just
+Ci fael	you are generous
+Ci fael	you are just
+De fael	thank you
+De fael	you were generous
+De fael	you were just
+De fael	you are generous
+De fael	you are just
+Ci mhilui	thank you
+Ci mhilui	you are kind
+Ci mhilui	you were kind
+De mhilui	thank you
+De mhilui	you are kind
+De mhilui	you were kind
+I ant dhîn mhîr mhin faer nîn	I shall treasure your gift in my heart
+I ant dhîn mhîr mhin faer nîn	your gift is a treasure in my soul
+I ant dhîn mhîr mhin faer nîn	I shall treasure your gift in my soul
+I ant dhîn mhîr mhin faer nîn	your gift is a treasure in my heart
+I ‘ell nîn	it is my pleasure
+I ‘ell nîn	it was my pleasure
+I ‘ell nîn	my joy
+Ni ’lassui	I am glad
+Ci mhaer?	do you feel well?
+Ci mhaer?	are you good?
+De mhaer?	do you feel well?
+De mhaer?	are you good?
+Fer-nesto im!	get better soon!
+Fer-nesto im!	heal yourself promptly!
+Almhaer	not good
+Pen-‘ur!	heartless!
+Pen-‘ur!	conscience-less!
+Pen-channas!	idiot!
+Pen-channas!	intelligence-less!
+Pen-ind!	spineless!
+Pen-ind!	will-less!
+Thiol alvain	looking bad
+Thiol alvain	looking rough
+Thiol alvain	appearing ugly
+Law gi melin	I do not love you
+Law thraston	I do not care
+Law thraston	I do not trouble myself
+Avomh nathlad ‘werth min daur mhîn	we do not welcome traitors into our forest
+Avomh nathlad ‘werth min daur mhîn	we refuse to welcome betrayers in our forest
+Ci law mhaer annin	I do not like you
+Ci law mhaer annin	you are not good to me
+Ci orch ‘waur	you are a dirty orc
+Edledhio uin dôr nîn	I banish you from my land
+Edledhio uin dôr nîn	go on to exile from my land
+Gi fuion	I am disgusted with you
+Gi fuion	I abhor you
+Goston achin	I am worried about you
+Goston achin	I fear for you
+Goston athen	I am worried about him
+Goston athen	I am worried about her
+Goston athen	I am worried about it
+Goston athen	I fear for him
+Goston athen	I fear for her
+Goston athen	I fear for it
+Goston athin	I am worried about them
+Goston athin	I fear for them
+I dhôl gîn lost	your head is empty
+I naneth gîn thia hui úan	your mother looks like a monster
+I naneth gîn thia hui úan	your mother appears like a monster
+Lasto i lalaith nîn	listen to my laughter
+Lasto i lalaith nîn	hear my laughter
+Nidhin soged i nîr haer gîn	I will drink your bitter tears
+Nidhin soged i nîr haer gîn	I intend to drink your bitter tears
+Niñ gweriantheg	you betrayed me
+Penig ‘ûr	you are heartless
+Penig ‘ûr	you lack a conscience
+Penig ‘ûr?	are you heartless?
+Penig ‘ûr?	do you lack a conscience?
+Penig channas	you are stupid
+Penig channas	you lack intelligence
+Penig channas?	are you stupid?
+Penig channas?	do you lack intelligence?
+Penig ind	you are spineless
+Penig ind	you lack will
+Penig ind?	are you spineless?
+Penig ind?	do you lack will?
+Penin estel	I have no hope
+Penin estel	I lack hope
+Semhig i challas naug	you are as tall as a Dwarf
+Semhig i challas naug	you have the height of a Dwarf
+Thiog hui úan	you look like a monster
+Thiog hui úan	you appear like a monster
+Thostog hui úan	you smell like a monster
+Thostog hui úan	you stink like a monster
+Caro!	do it!
+Caro!	do!
+Pi aníron garth eingarnen, im câr	if I want something done, I do it myself
+Pi aníron garth eingarnen, im câr	if I desire a deed done well, I do it myself
+Posto	stop that
+Posto	rest
+Alben câr, avo drasto	no one does, do not worry about it
+Alben câr, avo drasto	no one does, do not trouble
+Av-‘osto	do not be afraid
+Av-‘osto	do not fear
+Avo dhavo	do not yield
+Avo dhavo am môr	do not yield to darkness
+Avo gesto a thrastad; tôl achin	do not look for trouble; it comes to you
+Avo gesto a thrastad; tôl achin	do not search for troubling; it comes to you
+Avo gesto a thrastad; tôl anden	do not look for trouble; it comes to you
+Avo gesto a thrastad; tôl anden	do not search for troubling; it comes to you
+Avo mhuio	do not wine
+Avo mhuio	stop whining
+Avo bedo	do not speak
+Avo drasto	do not worry
+Avo drasto	do not trouble
+Avo garo!	do not do it!
+Avo nago i lemhain tad-dail. I lemhain tad-dail Naugrim, a Naugrim toler ruthrad na ‘wen.	Do not kill the Tad-dails. The dwarves will be angry with us, because Tad-dails are dwarves.
+Avo nago i lemhain tad-dail. I lemhain tad-dail Naugrim, a Naugrim toler ruthrad na ‘wen.	Do not kill the bipeds. Bipeds are dwarves, and the dwarves will rage at us.
+Ceno nin	look at me
+Ceno nin	see me
+Estel a thi ai benir amdir	faith for those who lack hope
+Estel a thi ai benir amdir	faith is for those who lack hope
+Goheno den	forgive him
+Goheno den	forgive her
+Goheno den	forgive it
+Goheno din	forgive them
+Goheno	forgive
+Lasto nin	listen to me
+Lasto nin	hear me
+No bell	be quiet
+No bell	be still
+No dhínen!	be silent!
+Reitho añ glass	try to be happy
+Reitho añ glass	strive for joy
+Samho amdir	have hope
+Samho amdir	have hope based on reason
+Law!	it is not so!
+Law!	no!
+Naw!	it is so! 
+Naw!	it is!
+Alae!	behold!
+Baw!	do not do it!
+Baw!	do not!
+Elo!	wow!
+Ma!	good!
+Ma!	great!
+Ma!	excellent!
+Ma!	that is right!
+Nae!	alas!
+No!	may it be so!
+Û!	it can not be!
+Û!	it can not be so!
+Na mhedui!	at last!
+Nan i ‘aear ah in elin!	by the sea and the stars!
+Nan i ‘aear ah in elin!	with the sea and the stars!
+No lim!	hurry!
+No lim!	be swift!
+Pessas nin!	I am moved!
+Pessas nin!	I am changed!
+Pessas nin!	I am affected!
+Tirio!	look out!
+Tirio!	watch!
+Tirio!	guard!
+Avo garo!	do not do it!
+No dhínen!	be silent!
+Amarth faeg!	evil fate!
+Amarth faeg!	poor fate!
+Delos!	loathing!
+Delos!	abhorrence!
+Eithad!	insulting!
+Eithad!	an insult!
+Gorgor!	horrors!
+Gorgor!	horror!
+Gweriad!	betrayal!
+Naeg!	ouch!
+Naeg!	pain!
+Naergon!	lament!
+Naergon!	a lament!
+Neithan!	wronged!
+Rhaich!	curses!
+Saew!	poison!
+Siniath faeg!	rotten news!
+Siniath faeg!	poor news!
+Trastad!	trouble!
+Meno!	go!
+Pi iestodh	if you wish
+Pi iestog	if you wish
+Agóren	I did 
+Athomh	we agree to it
+Athomh	we are willing to do it
+Athon	I agree to it
+Athon	I am willing to do it
+Ben iest dhîn	as you wish
+Ben iest dhîn	according to your wish
+Ben iest gîn	as you wish
+Ben iest gîn	according to your wish
+Carathon i iest dhîn	I will do your wish
+Carathon i iest dhîn	I am willing to do your wish
+Carathon i iest gîn	I will do your wish
+Carathon i iest gîn	I am willing to do your wish
+De charathon	I will do it
+De charathon	I am willing to do it
+Gweston nidhin de chared	I swear I will do it
+Gweston nidhin de chared	I swear that I intend to do it
+I ‘ûr nîn be hen	my heart is like this
+I ‘ûr nîn be hen	my heart is in accordance with this
+I ‘ûr nîn be hen	my conscience is in accordance with this
+I naw nîn ben naw dhîn	my thought is like yours
+I naw nîn ben naw dhîn	my thought is in accordance to your thought
+I naw nîn ben naw gîn	my thought is in accordance to your thought
+I naw nîn ben naw gîn	my thought is like yours
+Thand	that is true
+Thand	true
+Thand	abiding
+Laemh	not us
+Laen	not me
+Law agóren	I did not
+Althand	not true
+Althand	un-true
+Althand	false
+Avomh	we will not
+Avomh	we refuse
+Avon cared	I refuse to do it
+Avon cared	I will not do it
+Avon cared i iest dhîn	I refuse to do your wish
+Avon cared i iest dhîn	I will not do your wish
+Avon cared i iest gîn	I refuse to do your wish
+Avon cared i iest gîn	I will not do your wish
+I naw nîn law ven naw dhîn	my thought is not like yours
+I naw nîn law ven naw dhîn	my thought is not in accordance to your thought
+I naw nîn law ven naw gîn	my thought is not like yours
+I naw nîn *law ven naw gîn	my thought is not in accordance to your thought
+Penimh	not us
+Penimh	we lack
+Penin	not me
+Penin	I lack
+Pi den anírodh	if you want it
+Pi den anírog	if you want it
+Anin gell nîn	for my joy
+Annin	for me
+Athodh?	would you please?
+Athodh?	will you agree to?
+Athog?	would you please?
+Athog?	will you agree to?
+Den aníron	I want it
+Dhen iallon	I beg of you
+Dhen iallon	I cry out to you
+Gin iallon	I beg of you
+Gin iallon	I cry out to you
+Díheno nin	forgive me
+Goheno den	forgive him
+Goheno den	forgive her
+Goheno den	forgive it
+Goheno din	forgive them
+Goheno nin	forgive me
+Goheno	forgive
+Ni dem achin	I am sad for you
+Ni dem anden	I am sad for you
+A man?	along with what?
+A man?	along with who?
+A man?	alongside what?
+A man?	alongside who?
+A man?	beside what?
+A man?	beside who?
+Adel mhan?	behind what?
+Am man theled?	for what purpose?
+Am man?	for what?
+Am man?	for who?
+Atha man?	beyond what?
+Atha man?	beyond where?
+Be mhan?	according to what?
+Be mhan?	according to who?
+Da man?	against what?
+Da man?	against who?
+E man?	out of what?
+E man?	out of where?
+Lûmh mhan?	what time?
+Lûmh mhan?	which time?
+Man?	who?
+Man?	what?
+Man?	which?
+Mi mhan?	in what?
+Mi mhan?	in where?
+Na mhan?	at what?
+Na mhan?	at where?
+Na mhan?	at when?
+Nad mhan?	which one?
+Nad mhan?	which thing?
+Ne man?	during when?
+Ne man?	during what?
+Nu mhan?	under what?
+Nu mhan?	under where?
+O man?	from what?
+O man?	about what?
+O man?	concerning what?
+Or van?	over where?
+Or van?	over what?
+Pen mhan?	what person?
+Pen mhan?	which person?
+Po mhan?	on where?
+Po mhan?	on what?
+Sad mhan?	what place?
+Sui mhan?	like what?
+Thar mhan?	across where?
+Thar mhan?	across what?
+Am man avon?	why not?
+Am man avon?	for what do I refuse?
+Ma den agor?	who did it?
+Ma den?	what is it?
+Ma den?	who is it?
+Ma den?	what was it?
+Ma den?	who was it?
+Ma han?	what is that?
+Ma han?	what was that?
+Ma hen?	what is this?
+Ma hen?	what was this?
+Ma i theled?	what is the purpose?
+Semhin dhâf?	may I?
+Semhin dhâf?	do I have permission?
+Ni carweg!	I am busy!
+Boe?	is it necessary?
+Law moe	it is not necessary
+Boe	it is necessary
+Te telianthen?	is it done?
+Te telianthen?	is it completed?
+Te law delianthen	it is not done
+Te law delianthen	it is not completed
+Te telianthen	it is done
+Te telianthen	it is completed
+I dass carnen?	is the task done?
+I dass law garnen	the task is not done
+I dass carnen	the task is done
+Ab telib	after we finish
+Ab telib	after we do this
+Ab telimh	after we finish
+Ab telimh	after we do this
+Ab telin	after I finish
+Ab telin	after i do this
+Ab telinc	after we finish
+Ab telinc	after we do this	
+Edíleg?	are you finished?
+Edíleg?	did you finish?
+Edílen	I am done
+Edílen	I finished
+Law edílen	I am not done
+Law edílen	I did not finish
+Edíledh?	are you finished?
+Edíledh?	did you finish?
+Edílemh	we are done
+Edílemh	we finished
+Law edílemh	we are not done
+Law edílemh	we did not finish
+Amman agóreg?	why did you do that?
+Amman agóreg?	for what you did?
+Amman agóredh?	why did you do that?
+Amman agóredh?	for what you did?
+Amman cared?	what was the point of doing that?
+Amman cared?	what is the purpose of doing?
+Man agóreg?	what did you do?
+Man agóredh?	what did you do?
+Man agórer achin?	what happened to you?
+Man agórer achin?	what did they do to you?
+Man agórer anden?	what happened to you?
+Man agórer anden?	what did they do to you?
+Man cerig?	what are you doing?
+Man cerig hi?	what are you doing here?
+Man ceridh?	what are you doing?
+Man ceridh hi?	what are you doing here?
+Man câr?	what is he doing?
+Man câr?	what is she doing?
+Man câr?	what is it doing?
+Man câr hi?	what is he doing here?
+Man câr hi?	what is she doing here?
+Man câr hi?	what is it doing here?
+Man cerir?	what are they doing?
+Man cerir hi?	what are they doing here?
+Semhig chûr?	are you ready?
+Semhig chûr?	you have readiness for action?
+Penin chûr	I am not ready
+Penin chûr	I lack readiness for action
+Semhin chûr	I am ready
+Semhin chûr	I have readiness for action
+Semhidh chûr?	are you ready?
+Semhidh chûr?	you have readiness for action?
+Penimh chûr	we are not ready
+Penimh chûr	we lack readiness for action
+Sevimh chûr	we are ready
+Sevimh chûr	we have readiness for action
+Hîr-e-deilien	lord of the game
+Hîr-e-deilien	game master
+I mheth!	the end!
+Narphen	character
+Narphen	story person
+Oronthad Mheren!	happy birthday!
+Oronthad Mheren!	festive day of begetting!
+Tegilbor	writer
+Teilior	player
+Iesto i narn!	may the tale begin!
+Iesto i narn!	may the story begin!
+Pi law aphedidh; avon teithad	if you do not answer; I do not write
+Pi in noer i lam dhîn nin dringar, annon naeg dheleb anden	if the flames of your tongue toch me, I will give you horrible pain
+Pi in noer i lam dhîn nin dringar, annon naeg dheleb anden	if the flames of your tongue strike me, I will give you horrible pain
+Anthon i narn hen	I give you this
+Anthon i narn hen	I present to you this
+pen vain	a beauty
+nîr	tears
+lalaith	laughter
+meleth	love
+trevaded	a journey
+estel	hope
+a phen vain	and a fair one
+a nîr	and tears
+a lhalaith	and laughter
+a meleth	and love
+a threvaded	and a journey
+ah estel	and hope
+anden	tale
+Avo bosto teithad	do not pause writing
+Avo bosto teithad	continue writing
+Ceno i narn nîn	look at my story
+Ceno i narn nîn	look my story
+Dhe nallon, avo bosto trenared	I beg you, do not stop telling the tale
+Dhe nallon, avo bosto trenared	I cry out to you, do not rest telling the tale
+Dhe nallon, avo bosto trenared hí	I beg you, do not stop telling the tale now
+Dhe nallon, avo bosto trenared hí	I cry out to you, do not rest telling the tale now
+Galu a theithad vain	good fortune and fair writing
+Gi nallon, avo bosto trenared hi	I beg you, do not stop telling the tale now
+Gi nallon, avo bosto trenared hi	I cry out to you, do not rest telling the tale now
+Iston gin eithad be edhellen, a nin ú-cheniog	I can insult you in Elvish, and you will not understand me
+Iston gin eithad be edhellen, a nin ú-cheniog	I know how to insult you in Elvish, and you can not understand me
+Melin i narn dhîn	I love your story
+Melin i narn gîn	I love your story
+Meren i faer nîn; and i narn hen	my spirit is joyous, this tale will be long
+Meren i faer nîn; and i narn hen	joyous is my spirit, long will be this tale
+Mudassen anand anin narn hen	I have toiled long on this tale
+Mudassen anand anin narn hen	I toiled long for this story
+Ni degilbor	I am a writer
+Pantho i phermh ah isto din!	read the books and learn them!
+Pantho i phermh ah isto din!	open the books and know them!
+Pedin i phith in aníron, a nin ú-cheniog	I can say what I wish, and you can not understand me
+Pedin i phith in aníron, a nin ú-cheniog	I say the words that I want, and you can not understand me
+Penion narn	I am editing the story
+Penion narn	I fix the story
+Teitho annin	write to me
+Teitho annin	write for me
+Tolthon bilind luith!	I cast magic missile!
+Tolthon bilind luith!	I summon an arrow of spells!
+Trenaro	tell the tale
+Trenaro ammen	tell the tale to us
+
