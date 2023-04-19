@@ -1455,7 +1455,6 @@ Pen-ind!	will-less!
 Thiol alvain	looking bad
 Thiol alvain	looking rough
 Thiol alvain	appearing ugly
-Law gi melin	I do not love you
 Law thraston	I do not care
 Law thraston	I do not trouble myself
 Avomh nathlad ‘werth min daur mhîn	we do not welcome traitors into our forest
@@ -2316,3 +2315,326 @@ le leithiad	release you
 ve leithiad	release us
 le meriad	protect you
 ve meriad	protect us
+Gellon ned i cenin i chent lîn ned i gladhol	I love to see your eyes shine when you laugh
+Gellon ned i cenin i chent lîn ned i gladhol	I delight when your eyes shine when you laugh
+Annon i veleth nîn allen	I give you my love
+Le i veleth e-guil nîn	you are the love of my life
+Le i velethril e-guil nîn	you are the love of my life
+Le i velethril nîn	you are my love
+Le i velethron e-guil nîn	you are the love of my life
+Le i velethron nîn	you are my love
+Sevil i veleth nîn	you have my love
+Ni mestathol?	will you marry me?
+Avon le mestad	I will not marry you
+Avon le mestad	I refuse to marry you
+Le mestathon	I will marry you
+Ni melathol n’uir?	will you love me for eternity
+Ni melil?	do you love me?
+Law le melin	I do not love you
+Le melin	I love you
+De melil?	do you love him?
+De melil?	do you love her?
+De melil?	do you love it?
+And i dhû hen	long will be this night
+And i dhû hen	you are in for a long night
+Matho nin sui mathog i vagol gîn	wield me as you wield a sword
+Matho nin sui mathog i vagol gîn	wield me like you wield a sword
+Avo bedo ‘sevin i dhâf, a garo!	stop asking for permission and do it already!
+Avo bedo ‘sevin i dhâf, a garo!	do not say 'do I have permission' and do it!
+Sevin i dhâf gîn an gi mibed?	can I kiss you?
+Sevin i dhâf gîn an gi mibed?	do I have permission to kiss you?
+Sevin i dhâf gîn an de laved?	do I have permission to lick it?
+Sevin i dhâf gîn an de laved?	can I lick it?
+Lavo den	lick it
+Sevin i dhâf gîn de nestaged hi?	can I put it in now?
+Sevin i dhâf gîn de nestaged hi?	do I have your permission to insert it in now?
+Hello	strip
+Po van ‘laew?	where is the salve?
+Mi van ha nestegig?	where do you think you are putting that?
+Mi van ha nestegig?	where are you putting that?
+Nínion anin gurth lîn	I weep for your death
+Nínion anin gwannad lîn	I mourn your passing
+Nínion anin gwannad lîn	I weep for your passing
+Savo hîdh neñ gurth	have peace in death
+Gollo nin	teach me
+Niñ gollathol?	would you please teach me?
+Niñ gollathol?	will you teach me?
+Avon giñ gollad	I will not teach you
+Avon leñ gollad	I will not teach you
+Giñ gollathon	I will teach you
+Leñ gollathon	I will teach you
+Istannathol o	please teach me how
+Istannathol o	will you give me knowledge about
+Istanno o	teach me how to
+Istanno o	give me knowledge about
+medhiad vaeas	knead dough
+medhiad vaeas	kneading dough
+chaded bilin	shoot arrows
+chaded bilin	shooting an arrow
+chared viruvor	make miruvor
+chared viruvor	making miruvor
+gobennas	history
+hechaded bilin	fashion an arrow
+hechaded bilin	fashioning an arrow
+hechaded vagol	fashion a sword
+hechaded vagol	fashioning a sword
+aran vuin	beloved king
+bereth vuin	beloved queen
+brannon vuin	beloved lord
+brennil vuin	beloved lady
+caun vuin	beloved prince
+cund vuin	beloved prince
+heryn vuin	beloved lady
+hîr vuin	beloved lord
+hiril vuin	beloved lady
+rîn vuin	beloved queen
+rîs vuin	beloved queen
+Edregol vaer	that is wonderful
+Edregol vaer	especially good
+Agórel vae	you did well
+Mae bennen	well said
+Goheno nin; i ‘lîr lîn ni phrestant	forgive me;  but your song moved me
+Goheno nin; i ‘lîr lîn ni phrestant	forgive me; your song moved me
+Gannadol vae	you play the harp well
+Linnog vae	you sing well
+Linnol vae	you sing well
+Ned i linnol, im in elin gellar	when you sing, the stars themselves rejoice
+N’uir i thiad lîn ‘ell	ever is your presence a joy
+N’uir i thiad lîn ‘ell	for eternity your appearance is a joy
+Bain i find lîn	your hair is pretty
+Bain i find lîn	beautiful is your hair
+Palan-hinnen i thîr vain lîn	your beauty is famous
+Palan-hinnen i thîr vain lîn	known far and wide is your fair face
+Thiol vae	you look good
+Thiol vae	you seem well
+Le a vellon	you are with a friend
+Le a vellyn	you are with friends
+Le i vellon nîn n’uir	forever you are my friend
+Le i vellon nîn n’uir	you are my friend for eternity
+I goth-e-goth nîn i vellon nîn	the enemy of my enemy is my friend
+Pedathab hi sui vellyn?	may we speak as friends now?
+Pedathab hi sui vellyn?	we will speak now as friends?
+Le athae	thank you
+Le athae	you were helpful
+Le athae	you are helpful
+Le fael	thank you
+Le fael	you were generous
+Le fael	you were just
+Le fael	you are generous
+Le fael	you are just
+Ci vilui	thank you
+Ci vilui	you are kind
+Ci vilui	you were kind
+Le vilui	thank you
+Le vilui	you are kind
+Le vilui	you were kind
+I ant lîn vîr vin faer nîn	I shall treasure your gift in my heart
+I ant lîn vîr vin faer nîn	your gift is a treasure in my soul
+Ci vaer?	do you feel well?
+Ci vaer?	are you good?
+Le vaer?	do you feel well?
+Le vaer?	are you good?
+Alvaer	not good
+Avof nathlad ‘werth min daur vîn	we do not welcome traitors into our forest
+Avof nathlad ‘werth min daur vîn	we refuse to welcome betrayers in our forest
+Ci law vaer annin	I do not like you
+Ci law vaer annin	you are not good for me
+Niñ gwerianneg	you betrayed me
+Sevig i challas naug	you are as tall as a Dwarf
+Avo gesto a thrastad; tôl allen	do not look for trouble; it comes to you
+Avo gesto a thrastad; tôl allen	do not search for troubling; it comes to you
+Avo vuio	stop whining
+Avo vuio	do not whine
+Avo nago i levain tad-dail. I levain tad-dail Naugrim, a Naugrim toler ruthrad na ‘wen.	do not kill the Tad-dails. The dwarves will be angry with us, because Tad-dails are dwarves.
+Avo nago i levain tad-dail. I levain tad-dail Naugrim, a Naugrim toler ruthrad na ‘wen.	do not kill the bipeds. Bipeds are dwarves, and the dwarves will rage at us.
+Athof	we agree to it
+Athof	we are willing to do it
+Ben iest lîn	as you wish
+Ben iest lîn	according to your wish
+Carathon i iest lîn	I will do your wish
+Carathon i iest lîn	I am willing to do your wish
+I naw nîn ben naw lîn	my thought is like yours
+I naw nîn ben naw lîn	my thought is in accordance to your thought
+Laef	not us
+Avof	we will not
+Avof	we refuse
+Avon cared i iest lîn	I will not do your wish
+Avon cared i iest lîn	I refuse to do your wish
+I naw nîn law ven naw lîn	my thought is not like yours
+I naw nîn law ven naw lîn	my thought is not in accordance to your thought
+Penif	not us
+Penif	we lack
+Pi den anírol	if you want it
+Athol?	would you please?
+Athol?	will you agree to?
+Len iallon	I beg of you
+Len iallon	I cry out to you
+Ni dem allen	I am sad for you
+A van?	along with what?
+A van?	along with who?
+A van?	alongside what?
+A van?	alongside who?
+A van?	beside what?
+A van?	beside who?
+Adel van?	behind where?
+Adel van?	behind what?
+Be van?	according to who?
+Be van?	according to what?
+Lû van?	what time?
+Lû van?	which time?
+Mi van?	in where?
+Mi van?	in what?
+Na van?	at where?
+Na van?	at when?
+Na van?	at what?
+Nad van?	which one?
+Nad van?	which thing?
+Nu van?	under what?
+Nu van?	under where?
+Or van?	over where?
+Or van?	over what?
+Pen van?	which person?
+Po van?	on where?
+Po van?	on what?
+Sad van?	what place?
+Sad van?	which place?
+Sui van?	like what?
+Thar van?	across where?
+Thar van?	across what?
+Sevin dhâf?	may I?
+Sevin dhâf?	do I have permission?
+Te teliannen?	is it done?
+Te teliannen?	is it completed?
+Te law deliannen	it is not done
+Te law deliannen	it is not completed
+Te teliannen	it is done
+Te teliannen	it is completed
+Ab telif	after we do this
+Ab telif	after we finish
+Edílel?	are you finished?
+Edílel?	did you finish?
+Edílef	we are done
+Edílef	we are finished
+Law edílef	we are not done
+Law edílef	we did not finish
+Amman agórel?	why did you do that?
+Amman agórel?	for what you did it?
+Man agórel?	what did you do?
+Man agórer allen?	what happened to you?
+Man agórer allen?	what did they do to you?
+Man ceril?	what are you doing?
+Man ceril hi?	what are you doing here?
+Sevig chûr?	are you ready?
+Sevig chûr?	you have readiness for action?
+Sevil chûr?	are you ready?
+Sevil chûr?	you have readiness for action?
+Sevin chûr	I am ready
+Sevin chûr	I have readiness for action
+Sevidh chûr?	are you ready?
+Sevidh chûr?	you have readiness for action?
+Penif chûr	we are not ready
+Penif chûr	we lack readiness for action
+Sevif chûr	we are ready
+Sevif chûr	we have readiness for action
+Aldol	welcome
+Aldol	good
+Aldol	blessed
+Aldol	fortunate coming
+Lend and?	long journey?
+Harthon an lend and	I hope it will be a long journey
+Harthon an lend and	I hope for a long journey
+Len iston?	Do I know you?
+Bangon viruvor ar Âr-Thranduil	I sell King Thranduil wine
+Bangon viruvor ar Âr-Thranduil	I trade miruvor with King Thranduil
+I adar nîn ar i naneth nîn pedir edhellen	my father and my mother speak elvish
+Me elvellen	we are friends of the elves
+Me elvellen	we are elffriends
+Me erphin	we are nobles
+Me ñeller	we are scholars
+Me ñeller o Gondor	we are Gondorian scholars
+Me ñeller o Gondor	we are scholars from Gondor
+Me Núnedain	we are Dunedain
+Ni arphen	I am a noble
+Ni elvellon	I am an elffriend
+Ni elvellon	I am a friend of the elves
+Ni ñollor	I am a scholar
+Ni ñollor o Gondor	I am a Gondorian scholar
+Ni ñollor o Gondor	I am a scholar from Gondor
+Ni Núnadan	I am a Dunadan
+Ni vachor	I am a merchant
+Canath	quarter of a castar
+Canath	a tharni
+Mirian	a castar
+Mirian	money
+Mirian alfarn	not enough money
+Cilo vach!	choose an item
+Mirian farn	that is enough money
+Mirian farn	enough money
+Annathon virian a ganath achin	I will pay a castar and a tharni
+Annathon virian a ganath achin	I will give you a castar and a tharni
+Annathon virian a ganath allen	I will pay a castar and a tharni
+Annathon virian a ganath allen	I will give you a castar and a tharni
+Annathon	I will
+viriain a	castars and
+genaith achin	give tharnis
+Anno virian a ganath annin	that will be a castar and a tharni
+Anno virian a ganath annin	give a castar and a tharni to me
+Ma i ‘wanod miriain anírog assen?	how much money do you want for this?
+Ma i ‘wanod miriain anírog assen?	what is the count money that you want for this?
+Ma i ‘wanod miriain anírol assen?	how much money do you want for this?
+Ma i ‘wanod miriain anírol assen?	what is the count money that you want for this?
+Lacho calad! Drego morn!	flame light! flee night!
+Lacho calad! Drego morn!	may light flare up! may darkness flee!
+Gi melin, ah aníron gi mestad. Ma i ind gîn?	I love you, and I want to marry you. What is your will?
+I ind nîn ben ind gîn. Na veth min în, tolenc bestad!	My will is like your will. At the end of one year, we shall wed!
+Ai onron ah onril! Ai hoen a nîth! Ai meldir a meldis! Tolef bestad na veth min în!	Hail father and mother! Hail brothers and sisters! Hail male-friends and female-friends! We two will marry at the end of one year!
+Ai odhron ah odhril! Ai hoen a nîth! Ai meldir a veldis! Tolef bestad na veth min în!	Hail father and mother! Hail brothers and sisters! Hail male-friends and female-friends! We two will marry at the end of one year!
+Ai odhron ar odhril! Ai hoen a nîth! Ai meldir a veldis! Tolef bestad na veth min în!	Hail father and mother! Hail brothers and sisters! Hail male-friends and female-friends! We two will marry at the end of one year!
+Nae, i vestad hen law amarth ‘wîn.	Alas, this marriage isn’t our fate.
+Danechedif i naid e-meleth vîn, ah avof bestad.	We are destroying the tokens of our love, and we will not marry.
+Danechedif i naid e-meleth vîn, ar avof bestad.	We are destroying the tokens of our love, and we will not marry.
+Lasto iâl, ah elio din Eru.	May Varda Star-kindler hear calls, and may Eru the Father of All bless them.
+Lasto iâl, ar elio din Eru.	May Varda Star-kindler hear calls, and may Eru the Father of All bless them.
+Tiro Aran Einior, ah elio din Eru.	May Manwe Lord of Wind watch over, and may Eru the Father of All bless them.
+Tiro Aran Einior, ar elio din Eru.	May Manwe Lord of Wind watch over, and may Eru the Father of All bless them.
+A	hi
+Ai!	hail!
+Êl síla erin lû e-govaded 'wîn.	A star shines over the time of our meeting
+Êl síla erin lû e-govaded 'wîn.	A star shines on the hour of our meeting
+Tolo anin naur	come near the fire
+Tolo anin naur	come to the fire
+Gi nathlof hí	you are welcome here
+Gi nathlof hí	we welcome you here
+Le nathlof hí	you are welcome here
+Le nathlof hí	we welcome you here
+Savo 'lass a lalaith	have joy and laughter
+I faer nîn nínia aden a-govedinc	my heart shall weep until I see you again
+I faer nîn nínia aden a-govedinc	my soul weeps until you and I meet again
+I faer nîn nínia aden a-govedinc	my sould weeps until we meet again
+Loro vae	sleep well
+Posto vae	rest well
+Ollo vae	dream well
+Ollo vae	sweet dreams
+Na lû e-govaded 'wîn	until next we meet
+Na lû e-govaded 'wîn	until we meet again
+Na lû e-govaded 'wîn	to the time of our next meeting
+N'i lû tôl	until then
+N'i lû tôl	when the time will come
+Abarad	until tomorrow
+Abarad	after today
+Law bedin edhellen	I do not speak elvish
+Pedathanc hi sui vellyn?	you and I will speak now as friends?
+Pedathanc hi sui vellyn?	we will speak now as friends?
+Pedathanc hi sui vellyn?	may we speak as friends now?
+No dirweg!	be watchful!
+No dirweg!	beware!
+Odúlen gi nathad	I am here to save you
+Odúlen gi nathad	I came to save you
+Odúlen le nathad	I am here to save you
+Odúlen le nathad	I came to save you
+Hannon allen	I give thanks to you
+Hannon allen	thank you
+I faer nîn linna nan glass	thank you from my heart
+I faer nîn linna nan glass	my soul sings with joy
+Agóreg vae	you did well
+Iellig	daughter
