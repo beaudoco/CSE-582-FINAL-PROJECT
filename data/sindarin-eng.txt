@@ -1199,8 +1199,10 @@ Nauthon den i ‘lam trasta i sammarath ‘wîn	I think the noise upsets the nei
 Nauthon den i ‘lam trasta i sammarath ‘wîn	I think that the noise disturbs all of our neighbors
 Ned i postog a nin, ni bant	when you lie beside me, I am complete
 Ned i postog a nin, ni bant	when you rest besides me, I am complete
-Meren i dhû hen. Bestassenc?	what a night. Does this mean we are married?
-Meren i dhû hen. Bestassenc?	joyous was the night. Are we wed?
+Meren i dhû hen	what a night
+Bestassenc?	Does this mean we are married?
+Meren i dhû hen	joyous was the night
+Bestassenc?	Are we wed?
 Hiro hîdh neñ gurth	find peace in death
 Nínion anin gurth dhîn	I weep for your death
 Nínion anin gwannad dhîn	I mourn your passing
@@ -1526,8 +1528,10 @@ Avo bedo	do not speak
 Avo drasto	do not worry
 Avo drasto	do not trouble
 Avo garo!	do not do it!
-Avo nago i lemhain tad-dail. I lemhain tad-dail Naugrim, a Naugrim toler ruthrad na ‘wen.	Do not kill the Tad-dails. The dwarves will be angry with us, because Tad-dails are dwarves.
-Avo nago i lemhain tad-dail. I lemhain tad-dail Naugrim, a Naugrim toler ruthrad na ‘wen.	Do not kill the bipeds. Bipeds are dwarves, and the dwarves will rage at us.
+Avo nago i lemhain tad-dail	Do not kill the Tad-dails
+I lemhain tad-dail Naugrim, a Naugrim toler ruthrad na ‘wen	The dwarves will be angry with us, because Tad-dails are dwarves
+Avo nago i lemhain tad-dail	Do not kill the bipeds.
+I lemhain tad-dail Naugrim, a Naugrim toler ruthrad na ‘wen	Bipeds are dwarves, and the dwarves will rage at us
 Ceno nin	look at me
 Ceno nin	see me
 Estel a thi ai benir amdir	faith for those who lack hope
@@ -2445,8 +2449,10 @@ Avo gesto a thrastad; tôl allen	do not look for trouble; it comes to you
 Avo gesto a thrastad; tôl allen	do not search for troubling; it comes to you
 Avo vuio	stop whining
 Avo vuio	do not whine
-Avo nago i levain tad-dail. I levain tad-dail Naugrim, a Naugrim toler ruthrad na ‘wen.	do not kill the Tad-dails. The dwarves will be angry with us, because Tad-dails are dwarves.
-Avo nago i levain tad-dail. I levain tad-dail Naugrim, a Naugrim toler ruthrad na ‘wen.	do not kill the bipeds. Bipeds are dwarves, and the dwarves will rage at us.
+Avo nago i levain tad-dail	do not kill the Tad-dails
+I levain tad-dail Naugrim, a Naugrim toler ruthrad na ‘wen	The dwarves will be angry with us, because Tad-dails are dwarves
+Avo nago i levain tad-dail	do not kill the bipeds
+I levain tad-dail Naugrim, a Naugrim toler ruthrad na ‘wen	Bipeds are dwarves, and the dwarves will rage at us
 Athof	we agree to it
 Athof	we are willing to do it
 Ben iest lîn	as you wish
@@ -2585,22 +2591,24 @@ Ma i ‘wanod miriain anírol assen?	how much money do you want for this?
 Ma i ‘wanod miriain anírol assen?	what is the count money that you want for this?
 Lacho calad! Drego morn!	flame light! flee night!
 Lacho calad! Drego morn!	may light flare up! may darkness flee!
-Gi melin, ah aníron gi mestad. Ma i ind gîn?	I love you, and I want to marry you. What is your will?
-I ind nîn ben ind gîn. Na veth min în, tolenc bestad!	My will is like your will. At the end of one year, we shall wed!
+Gi melin, ah aníron gi mestad	I love you, and I want to marry you
+Ma i ind gîn?	What is your will?
+I ind nîn ben ind gîn	My will is like your will
+Na veth min în, tolenc bestad!	At the end of one year, we shall wed!
 Ai onron ah onril! Ai hoen a nîth! Ai meldir a meldis! Tolef bestad na veth min în!	Hail father and mother! Hail brothers and sisters! Hail male-friends and female-friends! We two will marry at the end of one year!
 Ai odhron ah odhril! Ai hoen a nîth! Ai meldir a veldis! Tolef bestad na veth min în!	Hail father and mother! Hail brothers and sisters! Hail male-friends and female-friends! We two will marry at the end of one year!
 Ai odhron ar odhril! Ai hoen a nîth! Ai meldir a veldis! Tolef bestad na veth min în!	Hail father and mother! Hail brothers and sisters! Hail male-friends and female-friends! We two will marry at the end of one year!
-Nae, i vestad hen law amarth ‘wîn.	Alas, this marriage isn’t our fate.
-Danechedif i naid e-meleth vîn, ah avof bestad.	We are destroying the tokens of our love, and we will not marry.
-Danechedif i naid e-meleth vîn, ar avof bestad.	We are destroying the tokens of our love, and we will not marry.
-Lasto iâl, ah elio din Eru.	May Varda Star-kindler hear calls, and may Eru the Father of All bless them.
-Lasto iâl, ar elio din Eru.	May Varda Star-kindler hear calls, and may Eru the Father of All bless them.
-Tiro Aran Einior, ah elio din Eru.	May Manwe Lord of Wind watch over, and may Eru the Father of All bless them.
-Tiro Aran Einior, ar elio din Eru.	May Manwe Lord of Wind watch over, and may Eru the Father of All bless them.
+Nae, i vestad hen law amarth ‘wîn	Alas, this marriage isn’t our fate
+Danechedif i naid e-meleth vîn, ah avof bestad	We are destroying the tokens of our love, and we will not marry
+Danechedif i naid e-meleth vîn, ar avof bestad	We are destroying the tokens of our love, and we will not marry
+Lasto iâl, ah elio din Eru	May Varda Star-kindler hear calls, and may Eru the Father of All bless them
+Lasto iâl, ar elio din Eru	May Varda Star-kindler hear calls, and may Eru the Father of All bless them
+Tiro Aran Einior, ah elio din Eru	May Manwe Lord of Wind watch over, and may Eru the Father of All bless them
+Tiro Aran Einior, ar elio din Eru	May Manwe Lord of Wind watch over, and may Eru the Father of All bless them
 A	hi
 Ai!	hail!
-Êl síla erin lû e-govaded 'wîn.	A star shines over the time of our meeting
-Êl síla erin lû e-govaded 'wîn.	A star shines on the hour of our meeting
+Êl síla erin lû e-govaded 'wîn	A star shines over the time of our meeting
+Êl síla erin lû e-govaded 'wîn	A star shines on the hour of our meeting
 Tolo anin naur	come near the fire
 Tolo anin naur	come to the fire
 Gi nathlof hí	you are welcome here
@@ -2665,10 +2673,10 @@ Ae Adar nín i vi Menel,	Our Father who art in Heaven,
 no aer i eneth lín,	hallowed be thy name,
 tolo i arnad lín,	thy kingdom come,
 caro den i innas lín,	thy will be done,
-bo Ceven sui vi Menel.	on Earth as it is in Heaven.
+bo Ceven sui vi Menel	on Earth as it is in Heaven
 Anno ammen sír i mbas ilaurui vín,	Give us this day our daily bread,
 ar díheno ammen i úgerth vín,	and forgive us our trespasses,
-sui mín i gohenam di ai gerir úgerth ammen.	as we forgive those who trespass against us.
+sui mín i gohenam di ai gerir úgerth ammen	as we forgive those who trespass against us
 Ir Ithil ammen Eruchín	When the Moon, jewel of the firmament,
 menel-vîr síla díriel	shines on the watch for us, Children of the One,
 si loth a galadh lasto dîn!	then flower and tree, listen in silence!
@@ -2681,12 +2689,13 @@ A tiro nin, Fanuilos!	o guard me, Elbereth!
 Elessar Telcontar: Aragorn Arathornion Edhelharn,	Elessar Telcontar: Aragorn Arathorn’s son Elfstone,
 King of Gondor and Arnor and Lord of the Westlands,	aran Gondor ar Arnor ar Hîr i Mbair Annui,
 anglennatha i Varanduiniant erin dolothen Ethuil,	will approach the Bridge of Baranduin on the eighth day of Spring,
-egor ben genediad Drannail erin Gwirith edwen.	or in the Shire-reckoning the second day of April.
+egor ben genediad Drannail erin Gwirith edwen	or in the Shire-reckoning the second day of April
 Ar e aníra ennas suilannad mhellyn în phain:	And he desires to greet there all his friends:
-edregol e aníra tírad i Cherdir Perhael (i sennui Panthael estathar aen)	in especial he desires to see Master Samwise (who ought to be called Fullwise)
+edregol e aníra tírad i Cherdir Perhael	in especial he desires to see Master Samwise
+i sennui Panthael estathar aen	who ought to be called Fullwise
 Condir i Drann, ar Meril bess dîn, ar Elanor, Meril, Glorfinniel, ar Eirien sellath dîn;	Mayor of the Shire, and Rose his wife; and Elanor, Rose, Goldilocks, and Daisy his daughters;
-ar Iorhael, Gelir, Cordof, ar Baravorn, ionnath dîn.	and Frodo, Merry, Pippin and Hamfast his sons.
-To Samwise and Rose the King's greeting from Minas Tirith, the thirty-first day of the Stirring.	A Pherhael ar am Meril suilad uin aran o Minas Tirith nelchaenen ned Echuir.
+ar Iorhael, Gelir, Cordof, ar Baravorn, ionnath dîn	and Frodo, Merry, Pippin and Hamfast his sons
+A Pherhael ar am Meril suilad uin aran o Minas Tirith nelchaenen ned Echuir	To Samwise and Rose the King's greeting from Minas Tirith, the thirty-first day of the Stirring
 Tôl acharn!	Vengeance comes!
 Túrin Túramarth	Túrin Túramarth
 i-Veleglind i eithro en estar i-Chîn Húrin	the Great Song that is also called the Children of Húrin
@@ -2721,18 +2730,19 @@ Nîn o Chithaeglir	Waters of the Misty Mountains
 lasto beth dhaer	listen to the great word
 Rimmo nîn Bruinen	flow waters of Loudwater
 dan in Ulaer	against the Ringwraiths
-Lasto beth nîn, tolo dan nan galad.	hear my voice, come back to the light.
+Lasto beth nîn, tolo dan nan galad	hear my voice, come back to the light
 Nosto i-Aear, lass laeg, Legolas!	Notice the Sea, green leaf, Legolas!
 Nosto i-Aear, lass laeg, Legolas!	Legolas Greenleaf long under tree
-Dorthannel anan nu 'aladh vi 'lass.	In joy thou hast lived. Beware of the Sea!
-Dorthannel anan nu 'aladh vi 'lass.	You have dwelt for long under tree in joy.
+Dorthannel anan nu 'aladh vi 'lass	In joy thou hast lived. Beware of the Sea!
+Dorthannel anan nu 'aladh vi 'lass	You have dwelt for long under tree in joy
 Ae lastol i-nall e-maew 'ri falas,	If thou hearest the cry of the gull on the shore,
 Ae lastol i-nall e-maew 'ri falas,	If you hear the call of the gull on the shore,
-Gúrel ló-chiratha hîdh vi thaur dass.	Thy heart shall then rest in the forest no more.
-Gúrel ló-chiratha hîdh vi thaur dass.	Then your heart will not find peace in the forest.
-Hiro hyn hîdh ab 'wanath	May they find peace after death.
+Gúrel ló-chiratha hîdh vi thaur dass	Thy heart shall then rest in the forest no more
+Gúrel ló-chiratha hîdh vi thaur dass	Then your heart will not find peace in the forest
+Hiro hyn hîdh ab 'wanath	May they find peace after death
 Ennyn Durin aran Moria: pedo mellon a minno!	Gate of Durin, King of Moria, say friend and enter!
-Im Narvi hain echant. Celebrimbor o Eregion teithant i thiw hin.	I, Narvi made them. Celebrimbor of Eregion drew these signs.
+Im Narvi hain echant	I, Narvi made them
+Celebrimbor o Eregion teithant i thiw hin	Celebrimbor of Eregion drew these signs
 a Elbereth Gilthoniel	o Elbereth who lit the stars
 silivren penna míriel	from glittering crystal slanting falls with light like jewels
 o menel aglar elenath	from heaven on high the glory of the starry host
@@ -2798,3 +2808,672 @@ Dangweth Pengolodh	Answer of Pengoloð
 glim maewion	the voices of gulls
 roch heryn	lady horse
 roch na-heryna	the horse of the lady
+Im Aragorn	I am Aragorn
+Im adan	a human
+Ech elleth?	Are you an elven-maiden?
+Ma Im elleth	Yes I am an elven-maiden
+Im sell Elrond	I am Elrond’s daughter
+E hˆır en Imladris?	He is the lord of Rivendell?
+Ma E peredhel	Yes He is a half-elf
+Ech Rohir?	Are you from the Rohirrim?
+Uin Im D´unadan	No I am a D´unadan
+Cuio vae, Aragorn!	Farewell, Aragorn!
+Cuio vae, Arwen!	Farewell, Arwen
+aran Gondor	king of Gondor
+ion aran	son of a king
+ion erain	son of kings
+ion i aran	son of the king
+ion in erain	son of the kings
+cabed i aras	leap of the deer
+cabed en aras	leap of the deer
+ion en aran	son of the king
+ion enan erain	son of kings
+methed en nirnaeth	end of bitter tears
+aran en noeg	king of the dwarves
+aran enan Ennorath	king of Middle-Earth
+aras nan aran	deer of the king
+ion nia erain	sons of the kings
+Man anglenna?	 Who is comming?
+Im Aragorn	 I am Aragorn
+Mae govannen, Aragorn, ci mellon	Well met, Aragorn, you are a friend
+Man sad Arwen?	Where is Arwen?
+Ennas mi amrˆun	There to the East
+Dortha min adab	She lives in the house
+Aragorn revia nan adab	Aragorn wanders to the house
+Arwen nan annon	Arwen is at the gate
+Mae govannen, Aragorn, minno	Well met, Aragorn, enter
+Arwen ah Aragorn anglennar i edrain en-falch Imladris	Arwen and Aragorn approach the border of the ravine of Rivendell
+Anor revia nan aeglir	The sun wanders to the mountain peaks
+Thinna	It grows towards evening
+Lastog in edhil linno?	Do you hear the elves sing?
+Arwen linna	Arwen sings
+Im linna	It is me who sings
+Edhil linnar	Elves sing
+M´ı linnar	We sing
+Minno Aragorn!	Aragorn shall enter!
+laston linnad	I hear singing
+laston Arwen linnad	I hear Arwen sing
+anglennad a dorthad	appraoching and dwelling
+Elrond ah Aragorn	Elrond and Aragorn
+Darthad Ithil	Awaiting the moon
+Arwen ah Elrond dharthar orthad en Ithil	Arwen and Elrond are waiting for the rising of the moon
+Dˆın mi Imladris	Silence is in Rivendell
+Man Aragorn?	Who is Aragorn?
+Ho D´unadan	He is a D´unadan
+In edhil - hai edhil	The Elves — are Elves
+In edain - hai edain	The Men — are Men
+I ’ardh prestannen	The world is changed
+Mathon chwest mi amrˆun	I feel a breeze in the East
+Lasto i beth nˆın, Arwen	Hear my word, Arwen
+I venn fair	The man is mortal
+Sui galadh a thawar	Like tree and forest
+Aragorn bada na Imladris	Aragorn is going to Rivendell
+Aragorn aran Gondor pada na Imladris	Aragorn, king of Gondor is going to Rivendell
+Laston venn	I hear a man
+Annon chammad vellon	I give a friend clothing
+i bˆan	the plank
+i dawar	the forest
+i galad	the light
+i venn	the man
+i dhaw	the darkness
+i ’aladh	the tree
+i ’lam	the din
+i chammad	the clothing
+i halph	the soup
+i vellon	the friend
+i fen	the threshold
+i thond	the root
+i nath	the web
+i rem	the net
+i lam	the tongue
+galadh a thawar	tree and forest
+thond a phˆan	root and plank
+dˆın a chalad	silence and light
+rhaw a lham	flesh and tongue
+nath a rhem	web and net
+Lui ym	Bad times
+Lui ym mi Chithaeglir	Times are bad in the misty mountains
+Yrch reviar min eryd	Orcs wander in the mountains
+Dravar ’elaidh a narthar noer	They hew trees and flame fires
+Droeg athradar i thewair	Wolves cross the forests
+In edain ’rogar a phadar na i thelaith	The humans fear and go to the plains
+I miss ah i chˆın egledhiar	The women and children go to exile
+I minn mabar dhring a ’rynd a maethar	The men seize hammers and clubs and fight 
+Binn rim gwannar ah in yrch farar in edain	Many men die and the orcs hunt the humans
+i phain	the planks
+i thewair	the forests
+i chelaid	the lights
+i minn	the men
+i noe	the darknesses
+in droeg	the wolves
+i ngelaidh	the trees
+in grynd	the clubs
+i chemmaid	the clothings
+i ’wist	the breezes
+i fin	the thresholds
+i laim	the tongues
+i mellyn	the friends
+i naith	the webs
+idh rim	the nets
+i sailph	the soups
+i thynd	the roots
+Siniath	Tidings
+Aragorn a Glorfindel reviar na ’laind Imladris	Aragorn and Glorfindel wander at the borders of Rivendell
+Aragorn gˆen adan neri nan aeglir	Aragorn sees a man run at the mountains
+Glorfindel, tiro venn!	Glorfindel, look, a man!
+Daro ah anglenno!	Stop and come closer!
+I venn bada nan edhel a nan adan	The man goes to the elf and the human
+Mae govannen! Im Eobhan	Well met! I’m Eobhan
+Tegin hiniath an Elrond	I bring news for Elrond
+Man rˆad na Imladris?	Which way to Rivendell?
+Mae Govannen! Imladris nan harad	Well met! Rivendell is to the South
+Noro!	Run!
+Glorfindel cˆen na chaered a gˆır	Glorfindel looks towards the distance and shudders
+Man?	What?
+Mathon vorn... Ephedinc i venn.	I feel a darkness... We follow the man.
+cenin toled i aduial	I see the evening come
+cenin doled en aduial	I see the coming of the evening
+Le suilon!	I greet thee!
+Man i eneth lˆın?	What is thy name?
+Athrabeth	A debate
+Eobhan dartha min tham a Glorfindel pada na Elrond	Eobhan is waiting in the great hall and Glorfindel is going to Elrond
+Benn an´ıra annad hiniath	A man desires to bring news
+An´ıron i venn minnad	I want the man to enter
+Mae govannen, Elrond	Well met, Elrond
+Edain o Chithaeglir an´ırar i dulu in edhil	The men of the Misty Mountains desire the help of the elves
+Amarth ’ortheb presta ven	A horrible fate troubles us
+Yrch elaig degir viss a chˆın	Wild orcs slay women and children
+Curu aglareb e-dagor in edhil istassen	The famous skill of the elves in battle is known
+Pelilir haltho ven	You can protect us
+In edhil ´u-annar dulu	The elves do not give help
+Penim dˆur	We lack strength
+I naid edhellin uir i naid in edain	The Elvish affairs are not the affairs of the men
+Amman, adar?	Why, father?
+Ha gwend iaur	It is old friendship
+Edain ´u-chalthar in edhil	The men don’t defend the elves either
+ˆu maer	It is not good
+In edhil in an´ırar padad pelir padad	The elves who desire to go can go
+Gerigir i dhˆaf nˆın	You have my permission
+Im dartha	I stay
+analag in edain	exceedingly wild among men
+analag in edain	wildest of men
+einior in edhil	eldest among the elves
+ammaer in naid	best of the things
+anuanui in yrch	most monstrous of the orcs
+avon linnad	I won’t sing
+avam minnad	we won’t come in
+uig dir	you do not watch
+ˆu linna	he does not sing
+uim gen	we do not see
+i elleth i linna	the elf-maiden who sings
+in edhil i maethar	the elves who fight
+i ylf i tawaren	the drinking-vessel that is wooden
+Baw	No
+Han hebin anim	I keep it for myself
+Io anann	Long past
+Renig i lˆu ah i maeth ioer?	Do you remember the old time and the past fights?
+Mae, govaethannenc in edain	Yes, we fought together with the humans
+Gwann	It is past
+Reviassenc na Vordor ah in edain vaethanner veren dan in yrch	We marched to Mordor and the humans fought boldly against the orcs
+Pilin ’wathranner i ’wilith ah iˆar hirias	Arrows shadowed the sky and blood flowed
+Govedig Eobhan nan mbar dˆın?	Do you go with Eobhan to his home?
+I ’ˆur nˆın pˆed enni, dan ´u-vedin	My heart tells me, but I don’t go
+Elrond idhren	Elrond is wise
+Berion in edain in ´u-vill	I protect the men who are not strong
+govaetha Aragorn	he fights together with Aragorn
+gwaguion vess	I live together with a woman
+abvedin Legolas	I go behind Legolas
+amvˆed orod	he goes up a mountain, he climbs a mountain
+athnallon i hirion	I call across the river
+dadvˆed orod	he goes down from a mountain
+dadvˆed orod	he descends from a mountain
+mabam in ylf vˆın	we seize our drinking-vessles
+maetha i vaeth ˆın	he fights his fight
+cenin vess dˆın	I see his wife
+Man loth nostog ammell - i veril egor i eirien?	Which flower do you smell preferably - the rose or the daisy?
+Man nosta ammain i-lyth?	Which among the flowers smells most beautiful?
+I veril ammain	The rose smells really beautiful
+Noston veril ammell i-lyth	I like the smell of roses best among the flowers
+Man thia ammain - i chammad valen egor i chammad galen?	Which appears more beautiful - the yellow or the green clothing?
+I chammad valen bain athan i galen	The yellow clothing is fairer than the green one
+Mi ham i-meigol	In the armory
+Aragorn a Ninias nauthar an i lend na Chithaeglir	Aragorn and Ninias plan for the journey to the Misty Mountains
+Bedir na i ham i-meigol	They go to the armory
+Si cˆu ar pilin?	Is here a bow and arrows?
+Hirig gui im veigol ar im cheithol	You find bows between swords and axes
+A, ennas!	Ah, there
+Annog nin i gˆu beleg min ich?	Can you give me the great bow between the spears?
+I gˆu di i thˆol vallen?	The bow beneath the golden helmet?
+Ma Gen hannon.	Yes I thank you.
+Hirin bilin adel i thaind?	Do I find arrows behind the shields?
+´u-chirig Bado trˆı i annon hen	No Go through this door
+Mae. Man lˆu revianc?	Well. What time do we go?
+Ne cheriad e-laer	In the beginning of summer
+cuion mi Chithaeglir	I live in the Misty Mountains
+revion mi ’elaidh	I wander between trees
+tirin na dawar	I look towards a forest
+bˆad n ’ondor	he goes to Gondor
+im n’ orod	I’m at a mountain
+dagor im vellyn	battle between friends
+pˆed ab Elrond	he speaks after Elrond
+bedin adel in yrch	I go behind the orcs
+cemmin am i ’olf	I jump over a bough
+be beth en aran	accoring to a word of the king
+athrabeth di ’wilith	a debate beneath the sky
+nu amon	under a hill
+nef aer	on this side of the sea
+pen bith	without words
+minnon trˆı annon	I enter through a gate
+siniath o Rhohan	tidings concerning Rohan
+trenarn o hedhil	a tale about elves
+peth o thawar	a word about a forest
+Telig vi aduial nan adab nˆın?	Do you come to my house in the evening?
+Govant Aragorn Legolas?	Did Aragorn meet Legolas?
+Hon cenin	I see him
+Gen hˆır	he finds you
+Anno nin i vagol!	Give me the sword!
+Lasto hon!	Listen to him!
+An´ıral toled na i gar nˆın?	Do you want to come to my house?
+An´ıral toled an govaded nin?	Do you want to come to meet me?
+An´ıral minnad?	Do you want to enter?
+An´ıral maded?	Do you want to eat?
+An´ıral sogad?	Do you want to drink?
+Sen i thambas	This is the hall
+Trˆı i annon hiril i ham-e-guiad	Through the door you find the living-room
+Am i bendrath i ham-e-maded	Up the stairs is the eating room
+Fair	Right is
+Hair	Left is
+Trˆı chenneth cenil i daur	Through the window you can see the forest
+Tiro i ham-e-meigol	Look, the armoury
+I narn e-harch	The tale of the grave
+Man lˆu bedig?	What time do you go?
+Erin arad aphadol	On the following day
+Evennin na Chithaeglir	I went to the Misty Mountains
+Io anann	Long ago
+M´ı edhil vaethanner dan yrch	We elves fought against orcs.
+A dan affaeg	And against worse
+Egennin firn-i-chuinar nan had hen	I saw dead who lived at this place
+Sen tˆır?	Is this true?
+Aphadel r´yn udulem na i harch en aran fern-i-guina	Following tracks we came to the grave of the undead king
+Ha eithel nia naid faeg	It was the source of the bad things
+Nauthon i aran hen tˆol	I thing this king comes again
+No dirweg!	Be watchful!
+Mae Cuio vae!	Yes Fare well!
+i aran hen	this king
+i thˆıw hin	these signs
+Man tolthant i ’waew?	What did the wind bring?
+Man tolthant i ’waew?	How is the weather?
+Man tolthatha i ’waew?	What will the wind bring?
+Man tolthatha i ’waew?	How will the weather become?
+Mi Chithaeglir	In the Misty Mountains
+Aragorn, Ninias, Eobhan ah in edhil o Imladris padar mi Chithaeglir nan mbˆar Eobhan.	Aragorn, Ninias, Eobhan and the elves from Rivendell march in the Misty Mountains towards the home of Eobhan.
+Man lˆu telithanc nan daen?	What time will we come to the summits?
+Bedithanc i lond hen dad eraid	We will go this path for two days
+Si i rˆad talu, ir ethredithanc i daur i raid faeg	Here, the way is level, but when we have crossed the forest the ways are poor
+A cenithanc loss	And we will see snow
+Mathon chwest	I feel a breeze
+Hithu delitha ned aduial	Mist will come in the evening
+Mae, telitha Ring	Yes It will be cold
+Tolthathanc aen ’lad an naur hi ae an´ıram laug	We should maybe fetch wood for a fire now if we want to be warm
+Ma Naw vaer	Yes a good idea
+Nin ebennir beriathon Edoras	They told me I shall defend Edoras
+Neled binn delithar	Three men will come
+Man sad?	What place is?
+Man sad?	Where is?
+Man rˆad na?	Which way to?
+Man rˆad na?	Where to?
+Nin pelig peded i rˆad na?	Can you tell me the way to?
+Ab vennig daer neled raith, pado fair na gar veleg	After you have gone straight for three streets, go right towards a large house
+Pado nan amrˆun nan thin	Go east until the evening
+Hirig hirion	You find a great river
+Aphado i hirion er arad a pado na charad	Follow the stream one day and go south
+Hirithog amon i estar ’Amon Hen’	You will find a hill called ’Amon Hen’
+Govaded	A meeting
+Aragorn ah in edhil ’evedir Rycol vaethor	Aragorn and the elves meet Rycol, a fighter
+Ho trenar	He tells
+Udulen am i thaen	I came over the summits
+Nin govennir neled maethoer	Three fighters went with me
+Athrannem i daur ennas a hiriannem r´yn i-nglamhoth	We crossed the forest there and found tracks of an orc-horde
+Aphannem idh r´yn hin neled eraid	We followed the tracks three days
+Hiriannem i ’lamhoth a lhathrannem	We found the orc-horde and eaves dropped
+Nae! Ven lastanner a dagor vragol herias	Alas! They heard us and a sudden battle began
+Grogassen	I felt great fear
+Degannen orch, dan maethoer nˆın firiasser	I killed an orc, but my fighters died
+Drengen, labassen am girith a bronnen	I flew, jumped over a cleft and survived
+Ha gortheb	It was horrible
+adhanc	he slew
+degant	he slew
+ewend	he bound
+gwedhant	he bound
+erend	he sowed
+redhant	he sowed
+udunc	he brought
+tegant	he brought
+Noro nan goth!	Run towards the enemy!
+Pain! Si berio!	All! Defend here!
+Drego!	Flee!
+Idh rechyn delithar lagor o chair a heriathar i nagor	The riders shall come swiftly from the left and shall begin the battle
+I meigor veriathar i had hen	The swordfighters shall defend this place
+Mabo i cheithol dan in yrch!	Take the axes against the orcs!
+Hado ich ben daith nˆın!	Throw spears according to my sign!
+Govaethanc!	We shall fight together!
+Tulu!	Help!
+Amaethathanc!	Let us attack again!
+Im harnannen!	I’m wounded!
+Gurth ’ni yrch!	Death to the orcs!
+An Imladris!	For Rivendell!
+Dagor	A battle
+Ben bith Rycol Aragorn ar in edhil an´ırar hired idh r´yn in yrch	According to the words of Rycol, Aragorn and the elves want to find the tracks of the orcs
+Nan meth telir nan imlad dholen ias in yrch darthar	At the end they come to a hidden valley where the orcs rest
+Aragorn ar Ninias vedir tired a hirir ’lamhoth	Aragorn and Ninias go watching and find an orc-host
+Bragol lastar deng a philin reviar dan in yrch	Suddenly they hear bowstrings and arrows fly against the orcs
+Aragorn nalla ’Gurth an yrch!’ a nˆor dan i goth	Aragorn cries ’Death to the orcs!’ and runs against the enemy
+In yrch sevir leng ar higil;	The orcs have cutlassess and daggers;
+magol Aragorn and athan i sigil hin a dˆag orch	Aragorn’s sword is longer than these daggers and he slays an orc
+Pilin edhrim reviar dan in yrch, a rim ´u-belir drego	More arrows fly against the orcs and many cannot flee
+Ab nagor leithiar venn naud	After the battle they free a prisoner
+maethon an Ngondor	I fight for Gondor
+maethon dam Mordor	I fight against Mordor
+maethon na magol	I fight with a sword
+Amon na Thaur	Hill of Wood
+aran na chˆır lim	king of swift ships
+athan ngaer	on the other side of an ocean
+a Pheriannath	for halflings
+da thaur	against a forest
+a thˆol	for a helmet
+am marad	for a tower
+am mellon	for a friend
+af fair	for a mortal
+al loth	for a flower
+al ’lug	for a serpent
+adh roch	for a horse
+Annon vagol am menn	I give a sword to the man
+Nostor nˆın erin	My birthday is on the
+Tˆad hˆın mi adab nˆın	I have two children
+Im maethor	I’m a fighter
+Echedin gair	I build houses
+Echedin gair	I’m a builder
+Bangon chemmaid	I trade in clothes
+Redhin iau	I sow corn
+Redhin iau	I’m a farmer
+Neston	I heal
+Neston	I’m a healer
+Im benn idhren	I’m a wise man
+Im benn idhren	I’m a scholar
+Im talagan	I play the harp
+Im talagan	I’m a harper
+Man ceril?	What do you do?
+Man lˆu i nostor lˆın?	What time is your birthday?
+Le gwennen?	Are you married?
+Man sˆad udulel?	What place did you come from?
+Man sˆad udulel?	Where are you from?
+I phith en aran fern	The words of the dead king
+Be Eolair	According to Eolair
+i venn ’n in edhil leithianner	the man whom the elves have freed
+ha narn iaur o haran fern	there is an old tale of the dead king
+Io anann ho ebent i phith nu firias	Long ago he said before he died the words
+’Es sarch telithon nan edain	’Out of a grave I will come to the men
+ar grogathar	and they will feel terror
+Or hain lodatha faer nˆın ar cenithon bain	Above them my spirit will float and I will see all
+Yrch o Chithaeglir tolthathar dulu daged i chyth	Orcs of the misty mountains will bring help to slay the enemies
+Ar i ardh nˆın athelitha.’	And my kingdom will come again.’
+Eolair trenar in yrch ebennir o haran fern a grogasser	Eolair tells that the orcs spoke about the dead king and had fear
+In edhil thelir hi hired had af fuin a ned arad aphadol hired i harch nan aran fern	The elves decide to find a place for the night now and to find the grave of the dead king on the next day
+Celebrimbor o Eregion	Celebrimbor of Eregion
+nen o Chithaeglir	water coming from the Misty Mountains
+sarn od Orthanc	a stone of the Orthanc
+minnon ned adab	I enter into a house
+telin ned laer	I come in summer
+Man lˆu achenithanc?	When will we see each other again?
+Man lˆu telithal na nin?	When will you come to me?
+Man lˆu gevedithanc?	When will we meet?
+Erin dolothen N´ınui	On the 8th of February
+Uin dolothen Urui	On the 9th day of August
+Ned amrˆun	At sunrise
+Neth thˆın	At evendim
+Ned aduial	At the twilight of evening
+Neth thin	In the evening
+Edhil hernennin	Some elves are wounded
+a th´ıriel i ardh darthar mi lad dithen deliannen	and having watched the surroundings they rest in a small hidden valley
+Lechiel naur Aragorn a Ninias badar ambenn	Having lighted a fire Aragorn and Ninias go upward
+Tiriel i minn lostol, Aragorn cheria peded.	Watching the sleeping men, Aragorn suddenly begins to speak
+Nauthol o haran fern goston	I fear, thinking of the dead king
+Mae. I harch hollen ammaer	Well. The grave being closed would be better
+Dan noer lechennin a beriathar vin dam morn	But we have lit fires and they will protect us against darkness
+Grogon yrch i chenir i noer	I fear orcs who see the fires
+Si hain orthurenc	Here, we have beaten them
+Orthurenc. No m´ı tiriel	Yes, we did. But we should be watchful
+Linnol gen cenin	singing I see you
+Nerthiel i naur lostassen	Having lighted the fire I slept
+Nerthiel i naur lostassen	After I had lighted the fire I slept
+Sui cˆol lilthar i laiss vin ’waew	Like gold dance the leaves in the wind
+I hˆul bresta i ngylf be aear	The wind affects the branches like an ocean
+Sui silith rimma i nen	Like silver is the water foaming
+Lim i raun e-thˆor min gwilith balan	Swift is the flight of the eagle in the wide sky
+Tiro i rem gelair en ungol vin galad	Watch, the glittering web of the spider in the light
+Ol dhem	A gloomy dream
+Aragorn ´u-bˆol losto vae	Aragorn cannot sleep well
+dan nan meth oltha ˆol dhem a deleb	but in the end he dreams a gloomy and horrible dream
+Cˆen rochon vorn i rocha trˆı ’wath	He is seeing a black rider who is riding through shadow
+Dˆur i chammad dˆın ah i chent dˆın gerthib	Dark is his cloak and his gaze is horrible
+Ias northa	Where he rides
+edain verin girir a yrch vill grogar	brave men shudder and strong orcs feel terror
+Gˆar vagol i morn a delu	He has a sword that is black and deadly
+Lim nˆor i roch dˆın nuin gwaith	Swiftly his horse is running beneath shadows
+Bragol Aragorn vatha i rochon vorn glinna hon	Suddenly Aragorn feels the rider glancing at him
+Nallol i lostad dˆın metha	Screaming his sleep ends
+Tiriel nan daur an´ıra achired ˆıdh ˆın	Staring to the forest he wishes to find his calm again
+In edhil d´ıriel telir a pheded ah al lastad o hely dˆın	The watching elves are coming to talk and to hear about his dreams
+beren venn a bell	bold a man and strong
+Maethon veren	I fight boldly
+Dartha d´ıriel	He remains watchful
+Si le nallon!	Here I cry to you!
+Beren vaethas	Bravely he fought
+Maethon vae, beren ar bronathon	I fight well, bravely and will survive
+Maethon vae, ni beren ar bronathon	I fight well, I am brave and will survive
+Cenin venn veren a maer	I see a brave and good man
+Cenin venn i beren	I see a man who is brave
+Cenin chim venn veren	I see continually a brave man
+Cenin chim venn i beren	I see continually a man who is brave
+Cenin him benn beren	I see that continually a man is brave
+An´ıron suilad vellyn nˆın	I desire to greet my friends
+An´ıron huilad enam mellyn nˆın	I desire the greeting of my friends
+Eglerio Daur ar Berhael!	Praise Frodo and Samwise!
+Anˆıron suilad vinn a biss bain	I want to greet all men and women
+Aragorn vaetha dan yrch	Aragorn fights against orcs
+Aragorn, i beren, maetha dan yrch	Aragorn, who is bold, fights against orcs
+Maetha Aragorn yrch	Aragorn fights orcs
+Man mathog?	What do you feel?
+Man mathog?	How do you feel?
+Ni maer	I’m fine
+´u-vathon ’alu	I’m not feeling happy
+An´ıron gladhad	I want to laugh
+Ni gruitheb na	I feel angry towards
+Ni lhaew	I’m ill
+No ce ammaer ab lˆu thent	May it be that you are better after a short time
+No ce ammaer ab lˆu thent	Hopefully you are better soon
+No achirig i lalaith gˆın	May you find again your laugh
+No galu govad gen	May blessings go with you
+No in elenath h´ılar nan rˆad gˆın	May all stars shine upon your path
+Yrch nef fuin?	Orcs in the darkness?
+Edhil ah edain bedir o hˆol Aragorn	Elves and men speak of Aragorn’s dream
+Nauthon i ˆol hen taith en ´umarth dolel	I think this dream is a sign of coming doom
+Boe m´ı tiriel	We have to be careful
+Im gosta!	I do feel fear
+Yrch hi anglennar aen!	Maybe orcs approach even now!
+Hain ´u-’rogon	Them I don’t fear
+Goston i aran fern ah i rochon hen uin ˆol nˆın	I fear the dead king and this rider from my dream
+Ae in yrch aphadar ven	If orcs have followed us
+pelir dartho min dawar	they can lurk in the forest
+Ae in yrch aphadar ven aen, m´ı dangen	If orcs had followed us, we would be slain
+Aragorn tˆır	Aragorn is right
+Naid affaeg reviar trˆın fuin	Extremely bad things wander through the night
+Ir Ithil eria	When the moon rises
+in yrch ´u-verthathar toled	the orcs will not dare to come
+Narthathanc aen naur ammeleg	We should maybe light a great fire
+Ae in yrch genir i naur hen	
+No d´ınen!	Be silent!
+Iron vagol	I wish a sword
+An´ıron gen cened	I desire to see you
+No lagor i roch lˆın	Be swift thy horse
+No annog nin gram	May you give me cake
+Aen lagor i roch lˆın	May your horse be swift
+Tolo i laer!	The summer shall come
+Mudathog!	You shall work hard!
+Mae vaethathalir!	Ye shall fight well!
+No ce tiriel	You should be watchful!
+No ce tiriel	Be it that you are watchful!
+No tiriel!	Be watchful!
+Boe tired i dawar	One must watch the forest
+Boe lostad enni	I must sleep
+Boe lostad enni	It is necessary for me to sleep
+Boe an Aragorn tired i dawar	Aragorn has to watch the forest
+Boe im lostol	I have to sleep
+Boe im lostol	It is necessary that I am sleeping
+Boe ’ni minn tiriel	The men have to be watchful
+hon cenin ge	I may see him
+hon cenin aen	I might see him
+Ae cenin orch, nerin	If I see an orc, I run
+Ae cenin orch aen, nerin	If I saw an orc, I would run
+Ae tˆol, hon cenin aen	If he comes, I see him maybe
+Ae tˆol aen, hon cenin	If he came, I would see him
+Beriathon Edoras	I shall defend Edoras
+Beriathon aen Edoras	I should defend Edoras
+Padathon ned laer na Imladris	In summer I will go to Rivendell
+Padathon aen ned laer na Imladris	Maybe in summer I will go to Rivendell
+Hon egennin aen	I would have seen him
+Ae egennin i orch aen, onuren	If I would have seen the orc, I would have run
+Gwendolyn S´uliell, meldis e-lam edhellen	Gwendolyn Winddaughter, friend of the Elvish language
+an´ıra suilannad	desires to send greeting to
+´ıra istad ir ho telitha	desires to know when he will come
+´ıra istad ir le telitha	desires to know when thou wilt come
+A Pherhael ar am Meril suilad uin aran o Minas Tirith nelchaenen uin Echuir	To Sam and Rose the greeting of the king of Minas Tirith on the 31. of spring
+Man sˆad i harch?	Where is the grave?
+Ned aur aphadol ail	On the next morning it is raining.
+M´odiel lim in edhil ah in edain adreviar	Having eaten swiftly, the elves and the men wander again
+´Irar hi hired i harch	They wish to find the grave now
+dan i aur bˆan r´oniel darthar	but having strayed all morning they rest
+An´ırar heniad amman ´u-radar	They want to understand why they don’t find the way
+Eolair drenar	Eolair tells
+I harch deliannen aen	Maybe the grave is hidden
+Pedir i dˆur e-harch pˆol gwerio i chin vˆın	They say the power of the grave can deceive our eyes
+´u-agorenc naid tangadad han	We have not done anything to confirm it
+dan m´ı englenniel aen	but we might have come close already
+Ha tˆır.	It is true
+I naid hin ´u-ch´oniel reniassem	We strayed, not having understood these things
+Oneg nangweth idhren	You have given a wise answer
+Anwenc os sarch?	We went away from the grave?
+Man cerithanc?	What shall we do?
+Awen naw	I had an idea
+Boe padad nan had hen ias ´u-an´ıranc padad	We must go to the place where we do not want to go
+´uvorathanc aen i chin vˆın dan i nguir vˆın	We should not trust our eyes but our hearts
+Ae cerinc i nad hen	If we do this
+hirithanc i harch	we will find the grave
+Ma	Well
+Cenin venn nef i hirion	I see a man on this side of the river
+Onen estel in edain	I gave the people hope
+Udulen ab Legolas na Imladris	I came after Legolas to Rivendell
+Udulen na Imladris ab Legolas	I came to Rivendell after Legolas
+Hon cenin	I see him
+Legolas hon cˆen	Legolas sees him
+Anna nin i ylf	He gives me the cup
+Anna i ylf Aragorn	He gives Aragorn the cup
+Anna i ylf enni	He gives the cup to me
+Hebin i vagol anim	I keep the sword for myself
+I harch	The grave
+Nan meth hirir i harch ned uial	At the end they find the grave at twilight
+Ha ereb na dalath vrand a sarnui	It is isolated on a high and stony plain
+In ndaen enan eneg edain caedar ennas min mbyth	The corpses of six men lie there in puddles
+I ’waew ring	The wind is cold
+Foen dhuir telir o ndˆun	Dark clouds come from the west
+In edhil carfar	The elves talk
+I had hen barad	This place is doomed
+Maer darthad aen atham minnad	Maybe it is better to wait than to enter
+´u-ammaer	It isn’t very good
+I fuin delitha hi	The night is now coming
+Im ´u-dharthatha an i noll	I will not wait for the darkness
+Guldur si.	Dark sorcery is here
+Dan tˆur in edhelath beriatha ven	But the might of the elven-folk will protect us
+Bertho!	Dare it!
+Vi lˆır edhil ah edain badar nan harch	In a row elves and men go towards the grave
+Ha haudh dofn na fen dithen	It is a low mound with a small opening
+I fen hollen	The doorway is closed
+Ninias belia idh rainc ˆın a pˆed bith ioer	Ninias spreads his arms and speaks ancient words
+I fen edra	The door is opening
+Penim vast	We lack bread
+Adhanc i vauglir	He slew the tyrant
+sellath en aran	all daughters of the king
+Lassath danner	All leaves are fallen
+Mellonath nin awarthanner	All friends have forsaken me
+Laiss bain danner	All leaves are fallen
+Pelig reviad na Imladris Im dartha	You can go to Rivendell I stay
+An´ırog maethad im ´u-an´ıra	You want to fight however I do not
+Dagor dan i morchaint	Fight against the shadows
+Adel i fen	Behind the doorway
+aglonn dhem tˆog dadbenn	a gloomy passage leads downward
+In edhil narthanner ylf	The elves light torches
+dan cenir fae	but they see poorly
+I aglonn taen	The passage is long
+Nan meth telir na ham veleg nuin haudh	At the end they come to a great hall below the mound
+Bragol thiar gaint vyrn o min bain ah anglennar	Suddenly dark shapes appear from all directions and approach
+No tiriel!	Be watchful!
+Ninias, anno i galadag enni!	Ninias, give me your light!
+Baw Ammaer ae hebin i galad anim!	No It is better if I keep the light myself!
+Maglan hain ´u-charna.	My sword doesn’t hurt them!
+Morchaint, lasto bethan veleg!	Shadows, hear my mighty word!
+Drego i galad!	Flee the light!
+Gwaew vragol luithia i ’aladath dˆın ar Aragorn ereb mi dh´uath	A sudden wind quenches all their lights and Aragorn is alone in the darkness
+Hˆol hent ˆın ar lathrada.	He closes his eyes and listens
+´u-lasta naid dan nosta ast barch ah iaur mi ’welu	He does not hear a thing, but he smells dry and old dust in the air
+Bragol matha gam ring mabad nan rancˆın a magolˆın drava nan gant.	Suddenly he feels a cold hand reach for his arm and his sword hews at the shape
+A hi han harna	And now he wounds it
+Nalla: ’Ae ´u-genigir peligir hain harnad!’	He cries: ’If you don’t see them, you can wound them!’
+Hˆeb i lembais anin	He keeps the waybread for himself
+Annon vagol anest	I give him a sword for himself
+´u-chebin estel anim	I do not keep hope for myself
+u-chirig nin hi nan had istassen	You will not find me now at the usual place
+I aran fern	The dead king
+Aragorn gleinannen na nglam e-ndagor	Aragorn is enclosed by battle-sounds
+Lasta edhil hernennin	He hears that elves are wounded
+dan ´u-gˆen naid	but he does not see anything
+I vagol ˆın orthiel pada ned mˆor	Having raised his sword, he is going into the darkness
+Nan meth thia ’lˆın	At the end a gleam of light appears
+Pˆol ceni fela veleg	He can see a great cave
+Cant anglenna; cant sui daen na rˆı vallen	A shape is approaching, a shape like a corpse with a golden crown
+Aragorn ’roga a gˆır	Aragorn feels terror and shivers
+I vagol ˆın danna nan dalaf	His sword is falling to the ground
+Bragol edhel dˆol e mˆor	Suddenly an elf is coming out of the darkness
+E Ninias	It is Ninias
+E anglenna i aran fern ah orthiel i fair ˆın pˆed bith e-dˆur	He approaches the dead king having raised his right hand and speaks words of power
+I aran fern hˆad dhˆuath dan Ninias	The dead king throws darkenss against Ninias
+Aragorn an´ıra toged dulu, dan ho sui nuithannen	Aragorn wants to help, but he is like paralyzed
+Ninias nalla:	Ninias cries:
+’Aragorn, drego! Avo acheno! Noro!’	’Aragorn, flee! Don’t look back! Run!’ 
+Heria maethad a gˆıl thia thent	He begins to attack and a bright light appears briefly
+Aragorn drega a lhasta chˆul ’ortheb adel in Aphadol dˆın	Aragorn flees and hears a horrible scream behind himself, followed by silence.
+Nin estar Legolas	They call me Legolas
+Nin estar Legolas	I’m called Legolas
+Annathar dulu mi Imladris	You will be helped in Rivendell
+Nin egennir	I have been seen
+Ae ´u-chorthannen aen, nin egennir	If I had not hurried, I might have been seen
+Ae ni cennen aen, onuren	If I had been seen, I would have run
+Ir telithagir, ce suilennin	When you come, you will be greeted
+I laer linniel, ni egleriannen	Having sung the tune, I was praised
+I nen i rimma or sern	The water flowing over the rocks
+I dhregad es sarch	The flight from the grave
+Sern cheriar dannad ah Aragorn nˆor nan fen	Suddenly, stones begin to fall and Aragorn is running to the doorway
+´u-rˆen i rad	He doesn’t remember the way
+dan ´u-dhartha	but he does not stop
+Bragol or son gond talt ah Aragorn gˆab nan edraith ˆın	Suddenly, a stone above him is falling and Aragorn jumps in order to save himself
+Nan meth tira galad ar anglenna fen	At the end he sees light and approaches the doorway
+Dˆar bo ceven	He stops on the earth
+Nef fuin	It is well into the night
+Gwanod in edhil obul drego es sarch	A number of elves could flee from the grave
+dan Aragorn vellyn rim ´u-geveditha ad	but there are many friends whom Aragorn will not meet again
+Adel hon i fen e-harch hˆol an-uir	Behind him, the doorway of the grave closes forever
+I mronanner gerir naergon af firn	Those who survived make a lament for the dead
+In edhil vr´uniel awarthar i had e-harch erin aur aphadol	The surviving elves leave the place of the grave on the next day
+Edain ah edhil bedir novaer	Men and elves say farewell
+In edain badar nan mbˆarˆın	The men are going to their home
+ar in edhil adreviar na Imladris	and the elves wander back to Rivendell
+Erin heriad en iavas telir ennas	At the beginning of fall they arrive there
+ah Aragorn pada an govaded Arwen	and Aragorn goes to meet Arwen.
+I riss anglenniel egemmin	Having approached the ravine I jumped
+I riss anglenniel egemmin	After I had approached the ravine, I jumped
+Narthannen in naur	I lighted the fire
+Aphadol lostassen	Then I slept
+Adarad egennin orch	Yesterday, I saw an orc
+Io evennin na dawar	Before that, I went to the forest
+An Aragorn avant na Imladris	For Aragorn went to Rivendell
+Han cerin an edraith ammen	I do it for the saving of us
+Han cerin an edraith ammen	I do it because I want to save us
+Linnon am meleth vˆın	I sing for our love
+Linnon am meleth vˆın	I sing because I love you
+Udulen al linnad	I have come for singing
+Udulen al linnad	I have come in order to sing
+Mudasseg far	You have worked enough
+Ha farn palan	This is far enough
+Telitha i lu g ˆ ˆın	Your time will come
+Aragorn adgovad Arwen na lanthir nef riss Imladris	Aragorn meets Arwen again at a waterfall on this side of the valley of Rivendell
+Uduleg revianneth and	You have come a long journey
+Udulen	Yes
+Man agoreg?	What did you do?
+Edregol renin ’osten ir ni nuin haudh marad	In especial I remember my fear as I was under the doomed hill
+Egennin Ninias maetho	I saw Ninias fight
+dan im sui nuithannen	but I was like paralyzed
+Nan meth orthor i aran fern	At the end he defeated the dead king
+dan e dangen	but he was also slain
+Yrch ´u-drastathar in edain	Orcs will not trouble the men
+dan i dulu nˆın tithen	but my help was small
+Telitha i lˆu gˆın	Your time will come
+´u-chenion hi bain	I don’t understand now everything
+dan iston cerithog naid verin a thoer	but I know you will do brave and great things
+´u-iston ias egor ir, dan gweston	I don’t know where or when, but I promise
+Hebo estel	Have hope
+Pelin pedi i lam edhellen	I can speak the elvish language
+An´ıron cened Aragorn	I with to see Aragorn
+Udulen al lastad	I came in order to hear
+Mas han agoreg?	Where did you do it?
+Agoren ennas, ias nin ´u-chirig	I did it there where you will not find me
+Mar han cerig?	When do you do it?
+Ir nin ´u-dirig	When you do not watch me

@@ -14,3 +14,5 @@ https://realelvish.net/phrasebooks/sindarin/woodelf/
 https://realelvish.net/phrasebooks/sindarin/gondor/
 
 https://realelvish.net/101_sindarin.html
+
+pedin_edhellen_en.pdf
