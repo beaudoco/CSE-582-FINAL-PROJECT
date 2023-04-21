@@ -18,3 +18,5 @@ https://realelvish.net/101_sindarin.html
 pedin_edhellen_en.pdf
 
 http://www.elvish.org/elm/others.html
+
+http://www.science-and-fiction.org/elvish/index.html#sindarin_poetry
