@@ -1344,7 +1344,7 @@ maethad na magol	fight with a sword
 maethad na magol	fighting with a sword
 maethad na pheng	fight with a bow
 maethad na pheng	fighting with a bow
-maethad nan i phoer nîn	fight with my fists	
+maethad nan i phoer nîn	fight with my fists
 maethad nan i phoer nîn	fighitng with my fists
 narad	tell a story
 narad	narrating a story
@@ -1754,7 +1754,7 @@ Ab telimh	after we do this
 Ab telin	after I finish
 Ab telin	after i do this
 Ab telinc	after we finish
-Ab telinc	after we do this	
+Ab telinc	after we do this
 Edíleg?	are you finished?
 Edíleg?	did you finish?
 Edílen	I am done
@@ -2773,7 +2773,7 @@ pedo mellon a minno	speak, friend, and enter
 pedo mellon a minno	say friend and enter
 im Narvi hain echant	I, Narvi, made them
 Celebrimbor o Eregion teithant i thiw hin	Celebrimbor of Hollin drew these signs
-annon edhellen, edro hi ammen	Elvish gate open now for us	
+annon edhellen, edro hi ammen	Elvish gate open now for us
 fennas nogothrim, lasto beth lammen	doorway of the Dwarf-folk listen to the word of my tongue
 cuio i Pheriain anann	may the Halflings live long
 aglar’ni Pheriannath	glory to the halflings
@@ -3271,7 +3271,6 @@ Naid affaeg reviar trˆın fuin	Extremely bad things wander through the night
 Ir Ithil eria	When the moon rises
 in yrch ´u-verthathar toled	the orcs will not dare to come
 Narthathanc aen naur ammeleg	We should maybe light a great fire
-Ae in yrch genir i naur hen	
 No d´ınen!	Be silent!
 Iron vagol	I wish a sword
 An´ıron gen cened	I desire to see you
