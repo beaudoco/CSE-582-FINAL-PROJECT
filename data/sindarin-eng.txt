@@ -1,3 +1,4 @@
+﻿Sindarin	English
 Ae!	hello!
 Ae!	hey!
 Ae!	oh!
