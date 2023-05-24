@@ -12,25 +12,30 @@
 
 
 import re
+import torch
 import string
 import pandas
+import random
 import evaluate
 import unicodedata
 import numpy as np
 from io import open
-from datasets import load_dataset, Dataset
+from datasets import load_dataset, Dataset, DatasetDict
 from huggingface_hub import notebook_login
 from transformers import AutoTokenizer, DataCollatorForSeq2Seq, AutoModelForSeq2SeqLM, Seq2SeqTrainingArguments, Seq2SeqTrainer, pipeline
 
 
 # In[3]:
 
+#Set seed
+random.seed(42)
+np.random.seed(42)
+torch.manual_seed(42)
 
-import torch
 torch.cuda.empty_cache()
 
-checkpoint = "t5-large"
-folder = "my_awesome_sindarin_model_large"
+checkpoint = "t5-small"
+folder = "/scratch/ivm5230/collin/sindarin-nmt/t5-small-1ep"
 tokenizer = AutoTokenizer.from_pretrained(checkpoint)
 source_lang = "en"
 # target_lang = "fr"
@@ -132,13 +137,17 @@ print(data)
 # books = books["train"].train_test_split(test_size=0.2)
 # print(books["train"][0])
 
-books = load_dataset('text', data_files={'train': 'data/sindarin-eng.txt'})
-train_ds = Dataset.from_pandas(data)
-books['train'] = train_ds
-books = books["train"].train_test_split(test_size=0.2)
-print(books['train'][0])
+ds = Dataset.from_pandas(data)
+# Create the test set
+ds = ds.train_test_split(test_size=0.2, seed=42)
+test_ds = ds['test']
+# Create the validation set
+ds = ds['train'].train_test_split(test_size=0.2, seed=42)
+train_ds, valid_ds = ds['train'], ds['test']
+# Put train, validation and test into a DatasetDict
+ds = DatasetDict({'train': train_ds, 'valid': valid_ds, 'test': test_ds})
 
-tokenized_books = books.map(preprocess_function, batched=True)
+tokenized_books = ds.map(preprocess_function, batched=True)
 data_collator = DataCollatorForSeq2Seq(tokenizer=tokenizer, model=checkpoint)
 model = AutoModelForSeq2SeqLM.from_pretrained(checkpoint)
 
@@ -146,23 +155,28 @@ torch.cuda.empty_cache()
 
 training_args = Seq2SeqTrainingArguments(
     output_dir= folder,
-    evaluation_strategy="epoch",
-    learning_rate=2e-5,
+    evaluation_strategy="steps",
+    eval_steps=500,
+    optim='adafactor',
+    learning_rate=5e-5,
+    warmup_steps=1000,
+    lr_scheduler_type='linear',
     per_device_train_batch_size=batch_size,
     per_device_eval_batch_size=16,
     weight_decay=0.01,
     save_total_limit=3,
-    num_train_epochs=5,
+    save_steps=500,
+    max_steps=5000,
     predict_with_generate=True,
     fp16=True,
-    push_to_hub=True,
+    push_to_hub=False,
 )
 
 trainer = Seq2SeqTrainer(
     model=model,
     args=training_args,
     train_dataset=tokenized_books["train"],
-    eval_dataset=tokenized_books["test"],
+    eval_dataset=tokenized_books["valid"],
     tokenizer=tokenizer,
     data_collator=data_collator,
     compute_metrics=compute_metrics,
@@ -173,7 +187,7 @@ trainer = Seq2SeqTrainer(
 
 
 trainer.train()
-trainer.push_to_hub()
+# trainer.push_to_hub()
 
 
 # In[ ]:
