@@ -20,3 +20,5 @@ pedin_edhellen_en.pdf
 http://www.elvish.org/elm/others.html
 
 http://www.science-and-fiction.org/elvish/index.html#sindarin_poetry
+
+https://folk.uib.no/hnohf/sindarin.htm
